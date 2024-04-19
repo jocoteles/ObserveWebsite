@@ -1,0 +1,11 @@
+---
+title: Planeta Mercúrio
+subtitle: Palavra cruzada
+h5p-folder: h5p-planeta-mercurio
+
+format:
+    html: 
+        include-in-header: ../../../h5p/h5p-header.html
+---
+
+{{< include "/h5p/h5p-body.html" >}}

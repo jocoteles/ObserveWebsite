@@ -1,0 +1,49 @@
+[
+  {
+    "listing": "/blog/blog.html",
+    "items": [
+      "/blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html"
+    ]
+  },
+  {
+    "listing": "/equipe/equipe.html",
+    "items": [
+      "/equipe/professores/joao_teles.html",
+      "/equipe/professores/vitor_coluci.html",
+      "/equipe/professores/alexandre_colato.html",
+      "/equipe/tecnicos/fernando_apolinario.html",
+      "/equipe/tecnicos/aline_soares.html",
+      "/equipe/estudantes/guilherme_bonaldo.html",
+      "/equipe/estudantes/daniel_oliveira.html",
+      "/equipe/estudantes/vivian_silva.html"
+    ]
+  },
+  {
+    "listing": "/acervo/acervo.html",
+    "items": [
+      "/acervo/itens/c6-s/c6s.html",
+      "/acervo/itens/nexstar4se/nexstar4se.html",
+      "/acervo/itens/relogio_estelar/relogio_estelar.html"
+    ]
+  },
+  {
+    "listing": "/atividades/atividades.html",
+    "items": [
+      "/atividades/jornada_das_estrelas/jornada_das_estrelas.html",
+      "/atividades/jornada_do_sol/jornada_do_sol.html",
+      "/atividades/observatorio/observatorio.html",
+      "/atividades/planisferio/planisferio.html",
+      "/atividades/observacao_do_ceu/observacao_do_ceu.html",
+      "/atividades/passeio_dos_planetas/passeio_dos_planetas.html",
+      "/atividades/pendulo_de_foucault/pendulo_de_foucault.html",
+      "/atividades/desafios_online/desafios_online.html"
+    ]
+  },
+  {
+    "listing": "/atividades/desafios_online/desafios_online.html",
+    "items": [
+      "/atividades/desafios_online/h5p-atividades/h5p-instrumentos.html",
+      "/atividades/desafios_online/h5p-atividades/h5p-planeta-mercurio.html"
+    ]
+  }
+]

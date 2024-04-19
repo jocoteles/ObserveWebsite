@@ -1,0 +1,11 @@
+---
+title: Instrumentos astronômicos
+subtitle: Múltipla escolha
+h5p-folder: h5p-instrumentos
+
+format:
+    html: 
+        include-in-header: ../../../h5p/h5p-header.html
+---
+
+{{< include "/h5p/h5p-body.html" >}}
