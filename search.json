@@ -154,11 +154,18 @@
     "text": "Esta página reúne todas as atividades que envolvem a participação do público interessado. Portanto, deve conter informações precisas e diretas do que se trata a atividade, de como participar, se inscrever, como chegar, etc.\nPor enquanto, publicamos as seguintes atividades:\n\nJornada das Estrelas\nJornada do Sol\nObservatório a Olho Nu\nConstrução de Planisfério\nObservação do céu\nPasseio dos Planetas\nPêndulo de Foucault\nDesafios online usando H5P\n\n\n\n\nNo momento esta página está em construção. Ela é dedicada ao compartilhamento do detalhamento dos projetos e equipamentos desenvolvidos. Cada item adicionado, pode ter diferentes níveis de detalhamento para diferentes faixas etárias e diferentes públicos.\nPor exemplo, o pêndulo de Foucault pode ser incluído como um projeto nesta página, a qual pode conter sub páginas. Em uma delas mostra-se explicações simples, simulações e filmagens, por exemplo. Em outra mostra-se dados técnicos da eletrônica, da mecânica do suporte, das medidas de precessão, etc.\n\n\n\nDivido nas abas de eventos agendados e eventos encerrados. Será na forma de um quarto.org listing, cada evento conterá a data, a forma específica de participação – quando diferente do descrito na página de Atividades, senão será dado o link para a respectiva atividade – formulário de inscrição, quando for o caso.\n\n\n\nPostagens dos eventos e visitações realizadas, com descrição da faixa etária do público e quantidade de pessoas, nome das escolas que visitaram quando for o caso, quais atividades foram realizadas no evento, etc. O texto tem que ser o mais detalhado possível.\nImportante usar um mesmo padrão. A primeira postagem inserida foi a visita da escola Maria Rosa em novembro/2023. É importante usar o mesmo padrão dessa postagem para as postagens futuras.\n\n\n\nEquipe do grupo Observe separada em professores, técnicos e estudantes.\n\n\n\nMateriais do projeto. Cada item é separado em abas contendo descrição, especificações e formas de uso.\n\n\n\nExplicação sobre o histórico das ações de astronomia que levaram a criação do obseRVe e a explicação da escolha do logotipo.\n\n\n\nExplicação de como acessar o Observatório a Olho Nu através de mapa gerado pela biblioteca em Python contendo explicações sobre as duas entradas do CCA-UFSCar.\n\n\n\nAinda não foi implementado. Mas abaixo, temos alguns exemplos.\n&gt;- [ExpLORa](https://wordpress.ft.unicamp.br/explora/)\n&gt;- [Observatório Astronômico da UFSCar](http://www.observatorio.ufscar.br/)\n&gt;- [Observatório Unesp - Bauru](https://www.fc.unesp.br/#!/observatorio)\n&gt;- [Planeta Rio](https://planeta.rio/)\n&gt;- [Observatório Astronômico da UFSC](https://observatorio.ufsc.br/)"
   },
   {
-    "objectID": "README.html#guia-direto-para-a-linha-de-comando",
-    "href": "README.html#guia-direto-para-a-linha-de-comando",
+    "objectID": "README.html#quarto",
+    "href": "README.html#quarto",
     "title": "Website do grupo obseRVe",
-    "section": "Guia direto para a linha de comando",
-    "text": "Guia direto para a linha de comando\nEste é um guia direto usando a linha de comando do seu sistema operacional e, por isso, é independente do editor de texto ou da IDE usada para editar o website.\n\nPrimeira vez no Git\nInstale o Git no seu computador.\n\n\nPrimeira vez no GitHub\nCrie uma conta no GitHub\n\n\nPrimeira vez no repositório do obseRVe"
+    "section": "1. Quarto",
+    "text": "1. Quarto\nO website do obseRVe é desenvolvido com a ferramenta Quarto. Ela possui uma documentação bastante amigável. Neste projeto, focamos mais em Website, mas outros recursos também serão utilizados, como inclusão de códigos python, por exemplo.\nA ideia do Quarto é você editar todos os arquivos direto em txt usando a IDE da sua preferência. Sugerimos o VS Code junto com a extensão do Quarto para VS Code."
+  },
+  {
+    "objectID": "README.html#github",
+    "href": "README.html#github",
+    "title": "Website do grupo obseRVe",
+    "section": "2. GitHub",
+    "text": "2. GitHub\nSe você não conhece o sistema de controle de versão Git ou o repositório GitHub e sua forma de uso, é recomendável o seu estudo na página:\nSobre o GitHub e o Git.\nA qual é subdividida em:\n\nCriar uma conta\nOlá, Mundo\nConfigure o seu perfil\nEncontre inspiração\nBaixar arquivos\nCarregar um projeto\nRecursos de aprendizagem\n\nPara uma documentação específica do Git, incluindo vídeos tutoriais, acesse Git documentation.\nSe você for usar o VS Code para editar o website, também é recomendável o estudo do material abaixo para ter uma boa integração do VS Code com o Git e o GitHub:\n\nIntroduction to Git in VS Code\nWorking with GitHub in VS Code\n\n\nGuia direto para a linha de comando\nEste é um guia direto usando a linha de comando do seu sistema operacional e, por isso, é independente do editor de texto ou da IDE usada para editar o website.\n\nPrimeira vez no Git\nInstale o Git no seu computador.\n\n\nPrimeira vez no GitHub\nCrie uma conta no GitHub\n\n\nPrimeira vez no repositório do obseRVe\nFaça o clone do repositório."
   },
   {
     "objectID": "calendario/calendario.html",
@@ -200,7 +207,7 @@
     "href": "equipe/professores/alexandre_colato.html",
     "title": "Alexandre Colato",
     "section": "",
-    "text": "Descrição do Prof Alexandre.\nFormação\nGraduado em Física pela UFSCar\nDoutor em Física pelo IFSC-USP\nAtuação profissional\nProfessor | UEFS | 2006 - 2009\nProfessor | UFSCar | 2009 - presente"
+    "text": "Descrição do Prof Alexandre Colato.\nFormação\nGraduado em Física pela UFSCar\nDoutor em Física pelo IFSC-USP\nAtuação profissional\nProfessor | UEFS | 2006 - 2009\nProfessor | UFSCar | 2009 - presente"
   },
   {
     "objectID": "equipe/estudantes/daniel_oliveira.html",
