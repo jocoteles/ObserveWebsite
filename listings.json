@@ -11,7 +11,23 @@
       "/equipe/estudantes/amanda_greyce.html",
       "/equipe/estudantes/vivian_silva.html",
       "/equipe/estudantes/guilherme_bonaldo.html",
+<<<<<<< HEAD
       "/equipe/estudantes/daniel_oliveira.html"
+=======
+      "/equipe/estudantes/maria_eduarda.html",
+      "/equipe/estudantes/amanda_greyce.html",
+      "/equipe/estudantes/jhasmani_tito_cruz.html",
+      "/equipe/estudantes/daniel_oliveira.html",
+      "/equipe/estudantes/vivian_silva.html"
+    ]
+  },
+  {
+    "listing": "/acervo/acervo.html",
+    "items": [
+      "/acervo/itens/c6-s/c6s.html",
+      "/acervo/itens/nexstar4se/nexstar4se.html",
+      "/acervo/itens/relogio_estelar/relogio_estelar.html"
+>>>>>>> f8a4bee (Jhasmani, Amanda e Maria Eduarda na equipe)
     ]
   },
   {
