@@ -1,26 +1,8 @@
 [
   {
-    "listing": "/blog/blog.html",
+    "listing": "/projetos/projetos.html",
     "items": [
-      "/blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html",
-      "/blog/posts/pons-brooks_21_04_23/pons-brooks_21_04_23.html"
-    ]
-  },
-  {
-    "listing": "/equipe/equipe.html",
-    "items": [
-      "/equipe/professores/joao_teles.html",
-      "/equipe/professores/silvio_dahmen.html",
-      "/equipe/professores/vitor_coluci.html",
-      "/equipe/professores/alexandre_colato.html",
-      "/equipe/tecnicos/fernando_apolinario.html",
-      "/equipe/tecnicos/aline_soares.html",
-      "/equipe/estudantes/guilherme_bonaldo.html",
-      "/equipe/estudantes/maria_eduarda.html",
-      "/equipe/estudantes/amanda_greyce.html",
-      "/equipe/estudantes/jhasmani_tito_cruz.html",
-      "/equipe/estudantes/daniel_oliveira.html",
-      "/equipe/estudantes/vivian_silva.html"
+      "/projetos/foucault_proj/foucault_proj.html"
     ]
   },
   {
@@ -29,6 +11,20 @@
       "/acervo/itens/c6-s/c6s.html",
       "/acervo/itens/nexstar4se/nexstar4se.html",
       "/acervo/itens/relogio_estelar/relogio_estelar.html"
+    ]
+  },
+  {
+    "listing": "/atividades/desafios_online/desafios_online.html",
+    "items": [
+      "/atividades/desafios_online/h5p-atividades/h5p-instrumentos.html",
+      "/atividades/desafios_online/h5p-atividades/h5p-planeta-mercurio.html"
+    ]
+  },
+  {
+    "listing": "/blog/blog.html",
+    "items": [
+      "/blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html",
+      "/blog/posts/pons-brooks_21_04_23/pons-brooks_21_04_23.html"
     ]
   },
   {
@@ -45,10 +41,20 @@
     ]
   },
   {
-    "listing": "/atividades/desafios_online/desafios_online.html",
+    "listing": "/equipe/equipe.html",
     "items": [
-      "/atividades/desafios_online/h5p-atividades/h5p-instrumentos.html",
-      "/atividades/desafios_online/h5p-atividades/h5p-planeta-mercurio.html"
+      "/equipe/professores/joao_teles.html",
+      "/equipe/professores/vitor_coluci.html",
+      "/equipe/professores/alexandre_colato.html",
+      "/equipe/professores/silvio_dahmen.html",
+      "/equipe/tecnicos/fernando_apolinario.html",
+      "/equipe/tecnicos/aline_soares.html",
+      "/equipe/estudantes/maria_eduarda.html",
+      "/equipe/estudantes/amanda_greyce.html",
+      "/equipe/estudantes/jhasmani_tito_cruz.html",
+      "/equipe/estudantes/vivian_silva.html",
+      "/equipe/estudantes/guilherme_bonaldo.html",
+      "/equipe/estudantes/daniel_oliveira.html"
     ]
   }
 ]
