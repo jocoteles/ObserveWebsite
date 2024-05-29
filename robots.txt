@@ -1,1 +1,1 @@
-Sitemap: https://jocoteles.github.io/Observe/sitemap.xml
+Sitemap: https://observe.ufscar.br/sitemap.xml
