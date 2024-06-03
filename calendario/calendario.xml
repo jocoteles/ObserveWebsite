@@ -9,7 +9,7 @@
 <link>https://observe.ufscar.br/calendario/calendario.html</link>
 <atom:link href="https://observe.ufscar.br/calendario/calendario.xml" rel="self" type="application/rss+xml"/>
 <description> </description>
-<generator>quarto-1.4.553</generator>
+<generator>quarto-1.4.549</generator>
 <lastBuildDate>Mon, 27 May 2024 03:00:00 GMT</lastBuildDate>
 <item>
   <title>XVII Jornada das Estrelas</title>
@@ -38,11 +38,11 @@
 <ul>
 <li>Escolas que queiram trazer seus alunos deverão, obrigatoriamente, fazer o agendamento do dia e horário de visitação preenchendo o formulário abaixo e enviando a solicitação gerada para o email observe@ufscar.br.</li>
 <li>O agendamento poderá ser feito até o dia 14 de junho. As escolas que não puderem vir deverão cancelar o agendamento com antecedência para liberar horário para outras escolas.</li>
-<li>Serão aceitos no máximo 3 grupos de 50 alunos por horário. Para cada grupo, deverá haver, obrigatoriamente, pelo menos um professor responsável. Uma mesma escola poderá vir com mais de um grupo, desde que haja pelo menos um professor diferente para cada grupo em um mesmo horário.</li>
-<li>As escolas que vierem com grupos que não tiverem sido agendados e confirmados, não poderão participar do evento. Todas as escolas serão contatadas por e-mail ou telefone para confirmação do agendamento. Ou seja, não basta fazer o agendamento, é necessário que a escola receba a confirmação por email para poder participar.</li>
+<li>Serão aceitos no máximo 3 grupos de 50 alunos por horário. Para cada grupo, deverá haver, obrigatoriamente, pelo menos um professor responsável. Uma mesma escola poderá vir com mais de um grupo desde que haja pelo menos um professor diferente para cada grupo em um mesmo horário.</li>
+<li>As escolas que vierem com grupos que não tiverem sido agendados e confirmados não poderão participar do evento. Todas as escolas serão contatadas por e-mail ou telefone para confirmação do agendamento. Ou seja, não basta fazer o agendamento, é necessário que a escola receba a confirmação por email para poder participar.</li>
 <li>Escolas que chegarem atrasadas em relação ao horário agendado poderão perder alguma das atividades acima, sendo direcionadas para a atividade seguinte desde que dentro do período agendado.<br>
 </li>
-<li>Para a UFSCar, é uma grande satisfação receber as escolas no evento, trazendo uma grande motivação para que ele ocorra anualmente. Entretanto, as escolas que descumprirem com as informações aqui descritas não poderão participar do evento. Isso é necessário para que as atividades ocorram de forma proveitosa para todos.</li>
+<li>Para a UFSCar é uma grande satisfação receber as escolas no evento, trazendo uma grande motivação para que ele ocorra anualmente. Entretanto, as escolas que descumprirem com as informações aqui descritas não poderão participar do evento. Isso é necessário para que as atividades ocorram de forma proveitosa para todos.</li>
 </ul>
 </section>
 <section id="form_escolas" class="level2">
@@ -94,14 +94,15 @@
         ]   
     };
     const agendamentos = [
-        {escola:'INSA', professor:'Cintia Dezotti', dia:dias[0], horario: horarios[0], escolaridade: escolaridade.options[1], alunos: alunos.options[3]},
-        {escola:'INSA', professor:'Rodolfo Milares', dia:dias[0], horario: horarios[0], escolaridade: escolaridade.options[1], alunos: alunos.options[3]},
-        {escola:'INSA', professor:'Karine Diena', dia:dias[0], horario: horarios[0], escolaridade: escolaridade.options[1], alunos: alunos.options[3]},
+        {escola:'INSA', professor:'Cintia Dezotti', dia:'18/06', horario:'19h às 20h', escolaridade:'Misto', alunos: 'entre 30 e 50'},
+        {escola:'INSA', professor:'Rodolfo Milares', dia:'18/06', horario:'19h às 20h', escolaridade:'Misto', alunos: 'entre 30 e 50'},
+        {escola:'INSA', professor:'Karine Diena', dia:'18/06', horario:'19h às 20h', escolaridade:'Misto', alunos: 'entre 30 e 50'},
     ];
 
-    const datas = genDatasDisponiveisLista(agendamentos, dias, horarios);
+    const Ngrupos = 6;
 
     const evento = 'XVII Jornada das Estrelas';
+
     const professor = {
         label: "Professor(a)",
         placeholder: "Professor(a) responsável por acompanhar os estudantes"
@@ -110,7 +111,8 @@
         label: "Telefone",
         placeholder: "Telefone para contato em caso de necessidade"
     }
-    const Ngrupos = 6;
+
+    const datas = genDatasDisponiveisLista(agendamentos, dias, horarios);
 
     let grupos = document.getElementById("grupos");
     for (let i = 1; i < Ngrupos+1; i++) {
@@ -245,7 +247,6 @@ Atenção
 <script>
     var table = new Tabulator("#tabelaAgendamentos", {
         layout:"fitColumns",
-        //movableRows:true,
         groupBy:["dia","horario"],
         data: agendamentos,
         columns:[
