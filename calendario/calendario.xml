@@ -9,7 +9,7 @@
 <link>https://observe.ufscar.br/calendario/calendario.html</link>
 <atom:link href="https://observe.ufscar.br/calendario/calendario.xml" rel="self" type="application/rss+xml"/>
 <description> </description>
-<generator>quarto-1.4.549</generator>
+<generator>quarto-1.4.553</generator>
 <lastBuildDate>Mon, 27 May 2024 03:00:00 GMT</lastBuildDate>
 <item>
   <title>XVII Jornada das Estrelas</title>
@@ -94,9 +94,13 @@
         ]   
     };
     const agendamentos = [
-        {escola:'INSA', professor:'Cintia Dezotti', dia:'18/06', horario:'19h às 20h', escolaridade:'Misto', alunos: 'entre 30 e 50'},
-        {escola:'INSA', professor:'Rodolfo Milares', dia:'18/06', horario:'19h às 20h', escolaridade:'Misto', alunos: 'entre 30 e 50'},
-        {escola:'INSA', professor:'Karine Diena', dia:'18/06', horario:'19h às 20h', escolaridade:'Misto', alunos: 'entre 30 e 50'},
+        {escola:'INSA', professor:'Cintia', dia:'18/06', horario:'19h às 20h', escolaridade:'Misto', alunos: 'entre 30 e 50'},
+        {escola:'INSA', professor:'Rodolfo', dia:'18/06', horario:'19h às 20h', escolaridade:'Misto', alunos: 'entre 30 e 50'},
+        {escola:'INSA', professor:'Karine', dia:'18/06', horario:'19h às 20h', escolaridade:'Misto', alunos: 'entre 30 e 50'},
+        {escola:'Maria Rosa', professor:'Edenilze', dia:'20/06', horario:'19h às 20h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
+        {escola:'Maria Rosa', professor:'Guilherme', dia:'20/06', horario:'19h às 20h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
+        {escola:'Maria Rosa', professor:'Valdezir', dia:'20/06', horario:'19h às 20h', escolaridade:'Fundamental 1', alunos: 'entre 30 e 50'},
+        {escola:'Maria Rosa', professor:'Daniele', dia:'20/06', horario:'20h às 21h', escolaridade:'Fundamental 2', alunos: 'entre 30 e 50'},
     ];
 
     const Ngrupos = 6;
