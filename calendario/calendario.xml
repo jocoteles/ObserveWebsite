@@ -97,10 +97,11 @@
         {escola:'INSA', professor:'Cintia', dia:'18/06', horario:'19h às 20h', escolaridade:'Misto', alunos: 'entre 30 e 50'},
         {escola:'INSA', professor:'Rodolfo', dia:'18/06', horario:'19h às 20h', escolaridade:'Misto', alunos: 'entre 30 e 50'},
         {escola:'INSA', professor:'Karine', dia:'18/06', horario:'19h às 20h', escolaridade:'Misto', alunos: 'entre 30 e 50'},
+        {escola:'UFSCar', professor:'Samantha', dia:'19/06', horario:'20h às 21h', escolaridade:'Misto', alunos: 'menos que 15'},
         {escola:'Maria Rosa', professor:'Edenilze', dia:'20/06', horario:'19h às 20h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
         {escola:'Maria Rosa', professor:'Guilherme', dia:'20/06', horario:'19h às 20h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
-        {escola:'Maria Rosa', professor:'Valdezir', dia:'20/06', horario:'19h às 20h', escolaridade:'Fundamental 1', alunos: 'entre 30 e 50'},
-        {escola:'Maria Rosa', professor:'Daniele', dia:'20/06', horario:'20h às 21h', escolaridade:'Fundamental 2', alunos: 'entre 30 e 50'},
+        {escola:'Maria Rosa', professor:'Valdezir', dia:'20/06', horario:'19h às 20h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
+        {escola:'Maria Rosa', professor:'Daniele', dia:'20/06', horario:'20h às 21h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
     ];
 
     const Ngrupos = 6;
@@ -155,8 +156,7 @@
             x0 = 
 `Prezados organizadores da ${evento},
 
-Nós, da instituição ${el.escola.value}, localizada no município de ${el.municipio.value}, gostaríamos de solicitar o agendamento para participação no evento nas seguintes datas:
-`
+Nós, da instituição ${el.escola.value}, localizada no município de ${el.municipio.value}, gostaríamos de solicitar o agendamento para participação no evento nas seguintes datas:`
         }; 
         for (let i = 1; i < Ngrupos+1; i++) {
             if (el[`professor${i}`].value != "" &&
@@ -166,6 +166,7 @@ Nós, da instituição ${el.escola.value}, localizada no município de ${el.muni
             {
                 x += 
 `
+
 Grupo ${i}:
 - Professor responsável: ${el[`professor${i}`].value}
 - Telefone: ${el[`telefone${i}`].value}
@@ -257,7 +258,7 @@ Atenção
             {field:'escola', title:'Escola'},
             {field:'alunos', title:'Alunos'},
             {field:'escolaridade', title:'Nível'},
-            {field:'professor', title:'Prof.'},
+            {field:'professor', title:'Prof(a)'},
         ],
     });
 </script>
