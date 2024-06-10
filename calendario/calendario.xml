@@ -38,7 +38,7 @@
 <ul>
 <li>Escolas que queiram trazer seus alunos deverão, obrigatoriamente, fazer o agendamento do dia e horário de visitação preenchendo o formulário abaixo e enviando a solicitação gerada para o email observe@ufscar.br.</li>
 <li>O agendamento poderá ser feito até o dia 14 de junho. As escolas que não puderem vir deverão cancelar o agendamento com antecedência para liberar horário para outras escolas.</li>
-<li>Serão aceitos no máximo 3 grupos de 50 alunos por horário. Para cada grupo, deverá haver, obrigatoriamente, pelo menos um professor responsável. Uma mesma escola poderá vir com mais de um grupo desde que haja pelo menos um professor diferente para cada grupo em um mesmo horário.</li>
+<li>Serão aceitos no máximo 4 grupos de 50 alunos por horário. Para cada grupo, deverá haver, obrigatoriamente, pelo menos um professor responsável. Uma mesma escola poderá vir com mais de um grupo desde que haja pelo menos um professor diferente para cada grupo em um mesmo horário.</li>
 <li>As escolas que vierem com grupos que não tiverem sido agendados e confirmados não poderão participar do evento. Todas as escolas serão contatadas por e-mail ou telefone para confirmação do agendamento. Ou seja, não basta fazer o agendamento, é necessário que a escola receba a confirmação por email para poder participar.</li>
 <li>Escolas que chegarem atrasadas em relação ao horário agendado poderão perder alguma das atividades acima, sendo direcionadas para a atividade seguinte desde que dentro do período agendado.<br>
 </li>
@@ -94,14 +94,15 @@
         ]   
     };
     const agendamentos = [
-        {escola:'INSA', professor:'Cintia', dia:'18/06', horario:'19h às 20h', escolaridade:'Misto', alunos: 'entre 30 e 50'},
-        {escola:'INSA', professor:'Rodolfo', dia:'18/06', horario:'19h às 20h', escolaridade:'Misto', alunos: 'entre 30 e 50'},
-        {escola:'INSA', professor:'Karine', dia:'18/06', horario:'19h às 20h', escolaridade:'Misto', alunos: 'entre 30 e 50'},
+        {escola:'INSA', professor:'Cintia', dia:'19/06', horario:'19h às 20h', escolaridade:'Infantil', alunos: 'entre 30 e 50'},
+        {escola:'INSA', professor:'Karine', dia:'19/06', horario:'19h às 20h', escolaridade:'Infantil', alunos: 'entre 30 e 50'},
+        {escola:'COOPEL', professor:'Isabel', dia:'19/06', horario:'19h às 20h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
         {escola:'UFSCar', professor:'Samantha', dia:'19/06', horario:'20h às 21h', escolaridade:'Misto', alunos: 'menos que 15'},
         {escola:'Maria Rosa', professor:'Edenilze', dia:'20/06', horario:'19h às 20h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
         {escola:'Maria Rosa', professor:'Guilherme', dia:'20/06', horario:'19h às 20h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
         {escola:'Maria Rosa', professor:'Valdezir', dia:'20/06', horario:'19h às 20h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
         {escola:'Maria Rosa', professor:'Daniele', dia:'20/06', horario:'20h às 21h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
+        {escola:'C.E. Sagrada Família', professor:'Jonathan', dia:'20/06', horario:'20h às 21h', escolaridade:'Ensino Médio', alunos: 'menos que 15'},
     ];
 
     const Ngrupos = 6;
