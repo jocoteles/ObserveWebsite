@@ -94,8 +94,8 @@
         ]   
     };
     const agendamentos = [
-        {escola:'INSA', professor:'Cintia', dia:'19/06', horario:'19h às 20h', escolaridade:'Infantil', alunos: 'entre 30 e 50'},
-        {escola:'INSA', professor:'Karine', dia:'19/06', horario:'19h às 20h', escolaridade:'Infantil', alunos: 'entre 30 e 50'},
+        {escola:'INSA', professor:'Cintia', dia:'19/06', horario:'19h às 20h', escolaridade:'Fundamental 1', alunos: 'entre 30 e 50'},
+        {escola:'INSA', professor:'Karine', dia:'19/06', horario:'19h às 20h', escolaridade:'Fundamental 1', alunos: 'entre 30 e 50'},
         {escola:'COOPEL', professor:'Isabel', dia:'19/06', horario:'19h às 20h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
         {escola:'UFSCar', professor:'Samantha', dia:'19/06', horario:'20h às 21h', escolaridade:'Misto', alunos: 'menos que 15'},
         {escola:'Maria Rosa', professor:'Edenilze', dia:'20/06', horario:'19h às 20h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
@@ -251,7 +251,7 @@ Atenção
 <div id="tabelaAgendamentos"></div>
 
 <script>
-    var table = new Tabulator("#tabelaAgendamentos", {
+    var tableAgen = new Tabulator("#tabelaAgendamentos", {
         layout:"fitColumns",
         groupBy:["dia","horario"],
         data: agendamentos,
