@@ -9,7 +9,7 @@
 <link>https://observe.ufscar.br/calendario/calendario.html</link>
 <atom:link href="https://observe.ufscar.br/calendario/calendario.xml" rel="self" type="application/rss+xml"/>
 <description> </description>
-<generator>quarto-1.4.553</generator>
+<generator>quarto-1.4.549</generator>
 <lastBuildDate>Mon, 27 May 2024 03:00:00 GMT</lastBuildDate>
 <item>
   <title>XVII Jornada das Estrelas</title>
@@ -103,6 +103,7 @@
         {escola:'Maria Rosa', professor:'Valdezir', dia:'20/06', horario:'19h às 20h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
         {escola:'Maria Rosa', professor:'Daniele', dia:'20/06', horario:'20h às 21h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
         {escola:'C.E. Sagrada Família', professor:'Jonathan', dia:'20/06', horario:'20h às 21h', escolaridade:'Ensino Médio', alunos: 'menos que 15'},
+        {escola:'NFP/UFSCar', professor:'Victor', dia:'20/06', horario:'20h às 21h', escolaridade:'Superior', alunos: 'menos que 15'},
     ];
 
     const Ngrupos = 6;

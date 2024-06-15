@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "localizacao/localizacao.html",
+    "href": "localizacao/localizacao.html",
+    "title": "Localização",
+    "section": "",
+    "text": "Abaixo encontra-se o mapa de localização da Praça do Observatório a Olho Nu – marca vermelha – que é o ponto de referência da maioria das atividades desenvolvidas no obseRVe. O CCA/UFSCar possui duas entradas. Uma, indicada pela marca azul no mapa, é por dentro da cidade entre o Jardim Pedras Preciosas e o Jardim Esmeraldas. A outra, indicada pela marca verde, é pela rodovia Anhanguera no sentido de Araras para Ribeirão Preto.\nMas atenção, as participações nos eventos do obseRVe precisam ser pré-agendadas ou estarem programadas no calendário de eventos. Não há pessoas disponíveis para atendimento fora dessas condições.\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook\n\n\nRodovia Anhanguera, km 174 - SP-330 - Araras-SP-BR observe@ufscar.br"
+  },
+  {
     "objectID": "projetos/projetos.html",
     "href": "projetos/projetos.html",
     "title": "Projetos",
@@ -7,32 +14,11 @@
     "text": "Captura e streaming do movimento do Pêndulo de Foucault\n\n\nSistema para acompanhar em tempo real o movimento pendular.\n\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
-    "objectID": "atividades/desafios_online/desafios_online.html",
-    "href": "atividades/desafios_online/desafios_online.html",
-    "title": "Desafios online",
+    "objectID": "calendario/eventos/pons_brooks.html",
+    "href": "calendario/eventos/pons_brooks.html",
+    "title": "Observação do cometa Pons-Brook",
     "section": "",
-    "text": "Ordenar por\n       Pré-selecionado\n         \n          Atividade\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nAtividade\n\n\nTipo\n\n\n\n\n\n\nInstrumentos astronômicos\n\n\nMúltipla escolha\n\n\n\n\nPlaneta Mercúrio\n\n\nPalavra cruzada\n\n\n\n\n\nNenhum item correspondente"
-  },
-  {
-    "objectID": "atividades/observacao_do_ceu/observacao_do_ceu.html",
-    "href": "atividades/observacao_do_ceu/observacao_do_ceu.html",
-    "title": "Observação do céu",
-    "section": "",
-    "text": "Encontros de curta duração, normalmente realizados no intervalo das aulas do período noturno do CCA-UFSCar.\nPossui a finalidade de aumentar o conhecimento das pessoas sobre o céu noturno visível a olho nu, dando noções de localização no céu das principais estrelas e constelações, bem como seus movimentos e épocas do ano em que são visíveis.\nNesses encontros, nossa principal ferramenta é o planisfério. Sabemos que existem ótimos aplicativos de celular que permitem a identificação de estrelas e constelações mirando a tela do aparelho na direção a ser observada. Entretanto, eles não possibilitam o mesmo grau de engajamento e de construção mental propiciados pelo planisfério. Por esses motivos, evitamos o uso de celulares nesses encontros.\n\nDuração de cada encontro\nEntre 20 e 30 minutos.\n\n\nFormas de participação\nConsulte as datas de observação no calendário de eventos. Não é necessário agendamento prévio. Não há limitação no número de pessoas. A participação é gratuita.\n\n\nPúblico alvo\nQualquer pessoa a partir de 6 anos de idade. Crianças devem estar acompanhadas pelos pais ou responsáveis.\n\n\nLocalização\nCCA-UFSCar, campus Araras\nRodovia Anhanguera, km 174 - SP-330 - Araras-SP-BR observe@ufscar.br\nO local específico dentro do campus é informado no calendário."
-  },
-  {
-    "objectID": "atividades/atividades.html",
-    "href": "atividades/atividades.html",
-    "title": "Atividades",
-    "section": "",
-    "text": "Nesta página reunimos todas as atividades que desenvolvemos rotineiramente que envolvem eventos, exposições, oficinas e sessões de observação do céu.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJornada das Estrelas\n\n\nEvento dedicado à observação do céu noturno com telescópios e a olho nu e à divulgação de astronomia com palestras e exposições.\n\n\n\n\n\n\n\n\n\n\n\n\n\nJornada do Sol\n\n\nEvento dedicado à observação do Sol usando telescópios com os devidos filtros solares.\n\n\n\n\n\n\n\n\n\n\n\n\n\nObservatório a Olho Nu\n\n\nPraça contendo relógios solar e estelar, além de totens informativos sobre as estações, os astrônomos e os planetas.\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstrução de Planisfério\n\n\nOficina dedicada à construção de um planisfério e à aprendizagem da forma correta do seu uso. Ele será um guia precioso na sua jornada de apreciação dos céus estrelados.\n\n\n\n\n\n\n\n\n\n\n\n\n\nObservação do céu\n\n\nEncontros semanais ou quinzenais que ocorrem principalmente no período de estiagem para a observação do céu a olho nu e identificação das principais constelações e estrelas.\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasseio dos Planetas\n\n\nExposição fixa com os planetas do sistema solar em escala reduzida. Viaje pelo Sistema Solar em velocidades superluminais!\n\n\n\n\n\n\n\n\n\n\n\n\n\nPêndulo de Foucault\n\n\nUm dos mais belos experimentos que demonstra que a rotação da Terra é absoluta. Venha conhecer o nosso exemplar!\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesafios online\n\n\nAtividades desenvolvidas em H5P para você se divertir testando seus conhecimentos em astronomia.\n\n\n\n\n\n\n\nNenhum item correspondente"
-  },
-  {
-    "objectID": "atividades/planisferio/planisferio.html",
-    "href": "atividades/planisferio/planisferio.html",
-    "title": "Construção de Planisfério",
-    "section": "",
-    "text": "Planisférios são mapas contendo as principais estrelas e constelações. Normalmente são acondicionados dentro de uma “máscara” que serve para destacar a região do mapa visível na data e horário escolhidos para observação do céu.\nExistem muitas propostas interessantes de confecção de planisférios. Nesta oficina ensinamos a construção de um modelo adaptado por nós. Além da sua construção, ensinamos os primeiros passos na forma de uso.\n\nDuração da oficina\nA oficina completa dura em torno de 50 minutos.\n\n\nFormas de participação\nExistem duas formas de realização da oficina:\n\nIndividual ou em pequenos grupos. Poderão se inscrever em oficinas pré-agendadas no calendário de eventos.\nEscolas. Podem agendar a realização de uma oficina para grupos de até 40 pessoas pelo email observe@ufscar.br.\n\nEm ambos os casos a participação é gratuita.\n\n\nPúblico alvo\nQualquer pessoa a partir de 6 anos de idade. Crianças devem estar acompanhadas pelos pais ou responsáveis.\n\n\nLocalização\nCCA-UFSCar, campus Araras\nRodovia Anhanguera, km 174 - SP-330 - Araras-SP-BR observe@ufscar.br\nO local específico dentro do campus é informado no calendário ou por email no caso de agendamento das escolas."
+    "text": "Este evento está encerrado\n\n\n\nLeia sobre o seu relato em Observação do cometa Pons-Brooks em 21/04/24\n\n\nNo final da tarde deste domingo (21/04) nos reuniremos na praça do Observatório a Olho Nu do CCA-UFSCar a partir das 17h45 (horário do pôr do Sol) para tentarmos observer o cometa Pons-Brooks. Dificilmente o cometa será visível a olho nu, por isso utilizaremos um dos nossos telescópios. Esperamos conseguir observá-lo no máximo até às 18h40, quando estará quase se pondo. Coincidentemente, na mesma região do céu, Urano estará em conjunção com Júpiter e poderemos tentar testemunhar esse evento também (apesar de ser improvável conseguirmos identificar Urano com o céu ainda levemente claro). Por fim, fecharemos o encontro observando a Lua – nossa única garantia – quase cheia no horizonte oposto."
   },
   {
     "objectID": "acervo/acervo.html",
@@ -40,6 +26,13 @@
     "title": "Acervo",
     "section": "",
     "text": "Ordenar por\n       Pré-selecionado\n         \n          Categoria\n        \n         \n          Item\n        \n         \n          Descrição\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nC6-S - Celestron\n\n\n\n\n\nSchmidt-Cassegrain 150 mm f/10, equatorial, motorizado e computadorizado.\n\n\n\n\n\nTelescópio\n\n\n\n\n\n\n\n\n\n\n\n\nNexStar 4SE - Celestron\n\n\n\n\n\nMaksutov-Cassegrain 102 mm f/13, altazimutal, motorizado e computadorizado.\n\n\n\n\n\nTelescópio\n\n\n\n\n\n\n\n\n\n\n\n\nQuest 2 - Meta\n\n\n\n\n\nÓculos de realidade virtual.\n\n\n\n\n\nÓculos RV/RA\n\n\n\n\n\n\n\n\n\n\n\n\nRelógio estelar\n\n\n\n\n\nGrade equatorial metálica, 260 cm de diâmetro, 24 divisões.\n\n\n\n\n\nInstalação\n\n\n\n\n\n\n\n\n\n\n\n\nSV305 - SVBONY\n\n\n\n\n\nCâmera de Astronomia para Fotografia Planetária\n\n\n\n\n\nCâmera\n\n\n\n\n\n\n\n\n\n\n\n\nSWDOB300C - Sky-Watcher\n\n\n\n\n\nDobsoniano 300 mm f/5, retrátil, altazimutal manual.\n\n\n\n\n\nTelescópio\n\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "acervo/itens/nexstar4se/nexstar4se.html",
+    "href": "acervo/itens/nexstar4se/nexstar4se.html",
+    "title": "NexStar 4SE - Celestron",
+    "section": "",
+    "text": "DescriçãoInstruçõesEspecificações\n\n\nAlguns telescópios, conhecidos como refratores, usam lentes. Outros, conhecidos como refletores, usam espelhos. O sistema óptico Maksutov-Cassegrain usa uma combinação de espelhos e lentes e é chamado de telescópio composto ou catadióptrico.\nO sistema Maksutov-Cassegrain consiste em um corretor de placas, um espelho primário esférico e um ponto de espelho secundário. Uma vez que os raios de luz entram no sistema óptico, eles percorrem o comprimento do tubo três vezes. Com isso, esse design oferece grandes comprimentos focais em tubos muito curtos, tornando-os extremamente portáteis.\nDevido à sua grande relação focal e pequena abertura é mais voltado para a observação dos planetas e da Lua.\n\n\n\n\nInstalação do telescópio\n\nComece removendo o telescópio de sua caixa de transporte e colocando a base redonda em uma mesa ou superfície plana. É melhor levar o telescópio segurando-o pela parte inferior do braço do garfo e pela parte inferior da base.\nRemova todos os acessórios de suas respectivas caixas. Lembre-se de guardar todos os recipientes para que possam ser usados para transportar o telescópio.\nO tubo do telescópio deve ser posicionado horizontalmente ao solo. Para fazer isso, gire suavemente a frente do tubo para cima até que esteja nivelado com o chão\nO NexStar pode ser alimentado por quaisquer uma dessas três opções: (i) oito pilhas AA (alcalinas ou recarregáveis de Ni-MH), (ii) fonte CA de 12 V e (iii) adaptador 12 V de bateria de carro.\n\n\n\nCalibração e uso do sistema Go-To\nTexto em construção.\n\n\n\nExtraídas do site da Celestron Brasil\n\nInformações do tubo óptico\n\nDesign Óptico: Maksutov-Cassegrain\nAbertura: 102 mm (4,02”)\nDistância focal: 1325mm (52”)\nRazão focal: f/13\nDistância focal da ocular 1: 25mm (0,98”)\nAmpliação da ocular 1: 53x\nFinderscope: localizador de ponto vermelho StarPointer™\nStar Diagonal: Retrovisor interno para ângulo de visão direto ou de 90°\nTubo Óptico: Alumínio\nMaior ampliação útil: 241x\nAmpliação útil mais baixa: 15x\nLimitando a Magnitude Estelar: 12,5\nResolução (Rayleigh): 1,37 segundos de arco\nResolução (Dawes): 1,14 segundos de arco\nPoder de coleta de luz (comparado ao olho humano): 212x\nObstrução do espelho secundário: 35mm (0,38”)\nObstrução do espelho secundário por diâmetro: 34%\nObstrução de espelho secundário por área: 12%\nRevestimentos ópticos: StarBright XLT\nComprimento do tubo óptico: 343mm (13,5”)\nDiâmetro do tubo óptico: 125 mm (4,9”)\nPeso do tubo óptico: 6 libras (2,7 kg)\nCauda de andorinha: barra de cauda de andorinha CG-5\n\n\n\nInformações da montagem\n\nTipo de montagem: Braço de garfo único computadorizado de altitude-azimute\nCapacidade de carga do instrumento: 10 lbs (4,54 kg)\nFaixa de ajuste de altura (inclui montagem e tripé): 939,8 mm - 2397 mm (37” - 55”)\nDiâmetro da perna do tripé: 38,1 mm (1,5”) Aço inoxidável\nPeso da cabeça de montagem: 7 lbs (3,2 kg)\nBandeja de acessórios: Sim\nPeso do tripé: 10 libras (4,54 kg)\nVelocidades de giro: 9 velocidades de giro - velocidade máxima 3°/segundo\nTaxas de Rastreamento: Sideral, Solar e Lunar\nModos de rastreamento: Alt-Az, EQ North e EQ South\nGPS: N/A\nCompatibilidade de cauda de andorinha: cauda de andorinha CG-5\nNúmero de portas auxiliares: 1x porta AUX\nPorta de guia automático: Não\nPorta USB: Sim, entrada de controle manual\nRequisitos de alimentação: 8 pilhas AA (não incluídas) e 12 VDC-750 mA (ponta positiva)\nAcionamento do motor: servo motores DC\nProcedimentos de alinhamento: SkyAlign, 1-Star Align, 2-Star Align, Auto 2-Star Align, Solar System Align, EQ North / EQ South Alignment (EQ align requer uma cunha equatorial)\nCorreção periódica de erros: Não\nControle manual computadorizado: Linha dupla, display de cristal líquido de 18 caracteres com 19 botões de LED retroiluminados de fibra óptica\nBanco de dados NexStar+: 38.181 objetos acessíveis. Informações aprimoradas sobre mais de 200 objetos.\nSoftware: Celestron Starry Night Special Edition Software e SkyPortal App\nPeso total do kit: 23 libras (10,4 kg)\n\n\n\nItens inclusos\n\nTubo Óptico\nMontagem de braço de garfo único e tripé\nBandeja de acessórios\nLocalizador de Ponteiro Estelar\nCunha Embutida\nControle manual NexStar+\nocular de 25 mm"
   },
   {
     "objectID": "acervo/itens/relogio_estelar/relogio_estelar.html#footnotes",
@@ -56,25 +49,18 @@
     "text": "DescriçãoInstruçõesEspecificações\n\n\nOs telescópios do tipo dobsoniano recebem esse nome devido à sua montagem prática criada pelo astrônomo amador John Dobson. Nela, o espelho primário – e mais pesado – fica apoiado próximo ao solo, o que permite uma configuração de posicionamento altazimutal estável, simples e robusta. Adicionalmente, o nosso modelo possui uma configuração retrátil do tubo óptico, o que facilita o seu transporte.\nO desenho óptico dos dobsonianos costuma ser do tipo newtoniano. A óptica newtoniana é composta somente por um espelho refletor parabólico na composição da objetiva, diferentemente dos telescópios catadióptricos (nossos Schmidt-Cassegrain e Maksutov-Cassegrain) que possuem uma sofisticada óptica que combina elementos refletores com refratores.\nCom uma abertura de 305 mm, é o que propicia o maior ganho de luminosidade entre os telescópios do nosso acervo, sendo indicado para a obervação de objetos difusos como cometas e nebulosas.\nUm ponto negativo da montagem que possuímos é o fato dela não ser motorizada/computadorizada o que requer que tenhamos que fazer tanto a busca dos objetos celestes quanto o seu acompanhamento devido à rotação da Terra, de forma manual.\n\n\n\n\nInstalação do telescópio\nTexto em construção.\n\n\n\nExtraídas do site da Sky-Watcher\n\nDesenho Óptico: Newtoniano (espelho primário parabólico)\nAbertura: 305mm (12″)\nComprimento Focal: 1500mm\nRazão Focal: f/4.9\nDiâmetro do Espelho Secundário: 69mm\nObstrução do Espelho Secundário: 22.7%\nPoder de Resolução: 0.39″\nMagnitude Limite: 15.4\nMáxima Ampliação: 610X\nCapacidade de Coleta de Luz (comparado ao olho nu): 1898X\nBuscadora: Crayford de 2″ com adaptador de 1.25″\nComprimento do Tubo Óptico: 923mm – 1390mm\nAltura do Telescópio: 1620mm\nDiâmetro da Base: 646mm"
   },
   {
-    "objectID": "acervo/itens/c6-s/c6s.html",
-    "href": "acervo/itens/c6-s/c6s.html",
-    "title": "C6-S - Celestron",
+    "objectID": "equipe/tecnicos/aline_soares.html",
+    "href": "equipe/tecnicos/aline_soares.html",
+    "title": "Aline de Almeida Soares",
     "section": "",
-    "text": "DescriçãoInstruçõesEspecificações\n\n\nEste telescópio usa uma combinação de lente e espelhos, sendo assim chamado de telescópio catadióptrico. Mais especificamente, é um sistema Schmidt-Cassegrain que consiste em uma lente corretiva, um espelho primário esférico e um espelho secundário. Uma vez que os raios de luz entram no sistema óptico, eles percorrem o comprimento do tubo óptico três vezes: o raio de luz atravessa a lente corretiva, reflete no espelho primário, reflete no secundário e é direcionado para a as lentes oculares.\nSua montagem é do tipo equatorial, a qual permite rotacionar o telescópio em torno do eixo de rotação terrestre. Para equilibrar bem o telescópio existe um contrapeso. Essa característica é especialmente útil para astrofotografia que necessita de prolongados tempos de aquisição das imagens.\nDevido à sua relação focal e abertura mediana é voltado para a observação dos planetas e da Lua e objetos medianamente difusos, como aglomerados abertos e globulares e nebulosas de maior magnitude.\n\n\n\n\nInstalação do telescópio\nTexto em construção.\n\n\nCalibração e uso do sistema Go-To\nTexto em construção.\n\n\n\nExtraídas do site da Celestron\n\nInformações do tubo óptico\n\nDesign Óptico: Schmidt-Cassegrain\nAbertura: 150 mm (6”)\nComprimento Focal: 1500 mm (59”)\nRazão Focal: f/10\nBuscadora: 6x30\nTubo Óptico: Alumínio\nMaior Aumento Útil: 354x\nMenor Aumento Útil: 21x\nMagnitude Estelar Limite: 13,4\nResolução (Rayleigh): 0,93 segundos de arco\nResolução (Dawes): 0,77 segundos de arco\nGanho de luminosidade (comparado ao olho humano): 459x\nObstrução do Espelho Secundário por Área: 14%\nComprimento do Tubo Óptico: 406 mm (16”)\nPeso do Tubo Óptico: 4,54 kg\n\n\n\nInformações da montagem\n\nTipo de Montagem: Equatorial Computadorizada\nCapacidade de Carga do Instrumento: 13,6 kg\nFaixa de Ajuste de Altura (inclui montagem e tripé): 1118 mm - 1626 mm\nDiâmetro da Perna do Tripé: 50,8 mm (2”) Aço Inoxidável\nFaixa de Ajuste de Latitude: 7° - 77°\nPeso da Cabeça da Montagem: 7,71 kg\nBandeja de Acessórios: Sim\nPeso do Tripé: 8,16 kg\nPeso dos Contrapesos: 1 x 5,44 kg\nVelocidades de Movimentação: 9 velocidades de movimentação - velocidade máxima 4° por segundo\nTaxas de Rastreamento: Sideral, Solar e Lunar\nModos de Rastreamento: EQ Norte e EQ Sul\nGPS: N/A\nRequisitos de Energia: 12V DC 3.5A (ponta positiva)\nMotor de Acionamento: Motores servo DC\nProcedimentos de Alinhamento: 2-Star Align, 1-Star Align, Solar System Align, Last Alignment, Quick Align\nControle Manual Computadorizado: Display de Cristal Líquido retroiluminado de 2 linhas x 18 caracteres, 19 botões retroiluminados por LED\nBase de Dados NexStar+: Mais de 40.000 objetos"
+    "text": "Descrição da Aline.\nFormação\nGraduada em Engenharia Mecânica pela Uniararas\nMestre em Engenharia Mecânica pela Unicamp\nAtuação profissional\nTécnica de laboratório | UFSCar | 2009 - presente"
   },
   {
-    "objectID": "localizacao/localizacao.html",
-    "href": "localizacao/localizacao.html",
-    "title": "Localização",
+    "objectID": "equipe/equipe.html",
+    "href": "equipe/equipe.html",
+    "title": "Equipe",
     "section": "",
-    "text": "Abaixo encontra-se o mapa de localização da Praça do Observatório a Olho Nu – marca vermelha – que é o ponto de referência da maioria das atividades desenvolvidas no obseRVe. O CCA/UFSCar possui duas entradas. Uma, indicada pela marca azul no mapa, é por dentro da cidade entre o Jardim Pedras Preciosas e o Jardim Esmeraldas. A outra, indicada pela marca verde, é pela rodovia Anhanguera no sentido de Araras para Ribeirão Preto.\nMas atenção, as participações nos eventos do obseRVe precisam ser pré-agendadas ou estarem programadas no calendário de eventos. Não há pessoas disponíveis para atendimento fora dessas condições.\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook\n\n\nRodovia Anhanguera, km 174 - SP-330 - Araras-SP-BR observe@ufscar.br"
-  },
-  {
-    "objectID": "equipe/estudantes/vivian_silva.html",
-    "href": "equipe/estudantes/vivian_silva.html",
-    "title": "Vivian Lara Silva",
-    "section": "",
-    "text": "É apaixonada loucamente por astronomia (e pela física mais ainda). Participa do projeto ObseRVe desde sua criação! Albert Einstein não errou quando afirmou: ” A natureza não esconde seus segredos por malícia, mas sim por causa da própria altivez”.\nFormação\nGraduanda em Física pela UFSCar | 2021 - presente"
+    "text": "Professores\n\n\n\n\n\n\nJoão Teles de Carvalho Neto\n\n\n\n\nVitor Rafael Coluci\n\n\n\n\nAlexandre Colato\n\n\n\n\nSílvio R. Dahmen\n\n\n\n\n\nNenhum item correspondente\n\n\n\n\n\n\n\nTécnicos\n\n\n\n\n\n\nFernando Rezende Apolinário\n\n\n\n\nAline de Almeida Soares\n\n\n\n\n\nNenhum item correspondente\n\n\n\n\n\n\n\nEstudantes\n\n\n\n\n\n\nAmanda Greyce de Sales\n\n\n\n\nLaís Florencio de Oliveira\n\n\n\n\nLucas Caprio Ribeiro\n\n\n\n\nJhasmani Tito Cruz\n\n\n\n\nVivian Lara Silva\n\n\n\n\nGuilherme Nunes Bonaldo\n\n\n\n\nDaiane Ribeiro Degan\n\n\n\n\nMaria Eduarda de Souza Gomes\n\n\n\n\nMaria Eduarda Silvestrini Dantas\n\n\n\n\nDaniel Matheus de Oliveira Joaquim\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "equipe/estudantes/maria_dantas.html",
@@ -84,25 +70,32 @@
     "text": "É entusiasta e fascinada por astronomia, quântica e química, o que a levou a participar do projeto obseRVe e desmistificar os mistérios do universo para que todos se apaixonem pelos atros e galáxias tanto quanto ela.\nFormação\nGraduanda em Química pela UFSCar | 2024 - presente"
   },
   {
+    "objectID": "equipe/estudantes/daiane_degan.html",
+    "href": "equipe/estudantes/daiane_degan.html",
+    "title": "Daiane Ribeiro Degan",
+    "section": "",
+    "text": "Estudante de licenciatura em física, apaixonada pelos astros e pelos mistérios do universo.\nFormação\nGraduanda em Física pela UFSCar | 2019 - presente"
+  },
+  {
+    "objectID": "equipe/estudantes/vivian_silva.html",
+    "href": "equipe/estudantes/vivian_silva.html",
+    "title": "Vivian Lara Silva",
+    "section": "",
+    "text": "É apaixonada loucamente por astronomia (e pela física mais ainda). Participa do projeto ObseRVe desde sua criação! Albert Einstein não errou quando afirmou: ” A natureza não esconde seus segredos por malícia, mas sim por causa da própria altivez”.\nFormação\nGraduanda em Física pela UFSCar | 2021 - presente"
+  },
+  {
+    "objectID": "equipe/estudantes/lucas_ribeiro.html",
+    "href": "equipe/estudantes/lucas_ribeiro.html",
+    "title": "Lucas Caprio Ribeiro",
+    "section": "",
+    "text": "Perdidamente apaixonado pelo Universo e pelas leis que o regem, porém apreensivo, com a solidão que o mesmo nos proporciona. Um estudante em busca de conhecimento verdadeiro, convicto de que “O primeiro pecado da humanidade foi a fé; a primeira virtude foi a dúvida.” (Carl Sagan)\nFormação\nGraduando em Física pela UFSCar | 2020 - presente"
+  },
+  {
     "objectID": "equipe/estudantes/amanda_greyce.html",
     "href": "equipe/estudantes/amanda_greyce.html",
     "title": "Amanda Greyce de Sales",
     "section": "",
     "text": "Participa do projeto ExpLORa e tem grande interesse em Tecnologia.\nFormação\nGraduanda em Sistema de Informação pela Unicamp | 2022 - presente"
-  },
-  {
-    "objectID": "equipe/estudantes/guilherme_bonaldo.html",
-    "href": "equipe/estudantes/guilherme_bonaldo.html",
-    "title": "Guilherme Nunes Bonaldo",
-    "section": "",
-    "text": "Um graduando em física curioso por esse mundo fascinante, principalmente pelos astros.\nFormação\nGraduando em Física pela UFSCar | 2020 - presente"
-  },
-  {
-    "objectID": "equipe/estudantes/lais_oliveira.html",
-    "href": "equipe/estudantes/lais_oliveira.html",
-    "title": "Laís Florencio de Oliveira",
-    "section": "",
-    "text": "Estudante de Licenciatura em Física apaixonada por astronomia.\nFormação\nGraduanda em Licenciatura em Física pela UFSCar | 2022 - presente"
   },
   {
     "objectID": "equipe/professores/alexandre_colato.html",
@@ -112,165 +105,67 @@
     "text": "É graduado em Física e se interessa em modelos matemáticos e computacionais em várias áreas. Já orientou alunos em diferentes níveis acadêmicos, desde iniciação científica até doutorado. Sua paixão pela astronomia foi o que inicialmente o levou ao curso de Física.\nFormação\nGraduado em Física pela UFSCar\nDoutor em Física pelo IFSC-USP\nAtuação profissional\nProfessor | UEFS | 2006 - 2009\nProfessor | UFSCar | 2009 - presente"
   },
   {
-    "objectID": "equipe/professores/silvio_dahmen.html",
-    "href": "equipe/professores/silvio_dahmen.html",
-    "title": "Sílvio R. Dahmen",
+    "objectID": "equipe/professores/joao_teles.html",
+    "href": "equipe/professores/joao_teles.html",
+    "title": "João Teles de Carvalho Neto",
     "section": "",
-    "text": "Tem formação em Física e trabalha na interface entre Física Matemática e Mecânica Estatística. Tem também trabalhos publicados em História da Ciência, em aplicações de Física nas Humanidades e traduções de textos clássicos da Física do alemão para o português.\nFormação\nBacharel e Mestre em Física pela UFSCar\nDoutor em Física pela Universidade de Bonn, na Alemanha\nPós-doutorado pela Yale University nos EUA\nAtuação profissional\nProfessor | UFRGS| 1999 - 2023\nProfessor | UFSCar | 2023 - presente"
+    "text": "Tem experiência em Ressonância Magnética Nuclear e Computação Quântica. Orientou trabalhos de graduação e mestrado em Ensino de Física e trabalha desde o início de sua atuação docente com ensino e divulgação de Astronomia.\nFormação\nGraduado em Física pela Unicamp\nDoutor em Física pelo IFSC-USP\nAtuação profissional\nProfessor | UFMT | 2009 - 2010\nProfessor | UFSCar | 2010 - presente"
   },
   {
-    "objectID": "equipe/tecnicos/aline_soares.html",
-    "href": "equipe/tecnicos/aline_soares.html",
-    "title": "Aline de Almeida Soares",
+    "objectID": "atividades/pendulo_de_foucault/pendulo_de_foucault.html",
+    "href": "atividades/pendulo_de_foucault/pendulo_de_foucault.html",
+    "title": "Pêndulo de Foucault",
     "section": "",
-    "text": "Descrição da Aline.\nFormação\nGraduada em Engenharia Mecânica pela Uniararas\nMestre em Engenharia Mecânica pela Unicamp\nAtuação profissional\nTécnica de laboratório | UFSCar | 2009 - presente"
+    "text": "No momento, esta atividade encontra-se em construção e assim que estiver pronta disponibilizaremos aqui os detalhes da sua localização e forma de visitação."
   },
   {
-    "objectID": "blog/posts/pons-brooks_21_04_24/pons-brooks_21_04_24.html",
-    "href": "blog/posts/pons-brooks_21_04_24/pons-brooks_21_04_24.html",
-    "title": "Observação do cometa Pons-Brooks",
+    "objectID": "atividades/jornada_do_sol/jornada_do_sol.html",
+    "href": "atividades/jornada_do_sol/jornada_do_sol.html",
+    "title": "Jornada do Sol",
     "section": "",
-    "text": "Nos reunimos a partir das 17h45 na praça do Observatório para iniciar a nossa busca pelo fugidio Pons-Brooks. O bacana desse cometa é que ele possui um período orbital de 71 anos, que é semelhante ao do cometa Halley (76 anos). Cometas são objetos que fascinam a humanidade há milênios. Mas foi somente com Edmond Halley, usando a Física de Newton, que se compreendeu que não se tratam de fenômenos atmosféricos, mas que são corpos que executam órbitas em torno do Sol como os planetas.\nNo caso dos cometas, as órbitas são elipses bem achatadas com o Sol próximo a uma das extremidades. A maior parte do tempo eles estão longe do Sol, geladões. Mas durante alguns meses aproximam-se dele, aquecendo-se e produzindo gás e detritos em sua volta – o que vai produzir sua coma e cauda e talvez por isso tenham feito os antigos pensarem que os cometas estavam na atmosfera da Terra.\nNesta mesma data, ainda tivemos a oportunidade de apreciar o evento de conjunção entre Júpiter e Urano, que é o momento em que os dois planetas encontram-se mais próximos um do outro a partir da nossa visão da Terra. Júpiter, facilmente visível a olho nu e Urano, somente com telescópio.\nE para completar nossa seção de observação, observamos a – sempre espetacular – Lua quase cheia com nossos telescópios.\nNeste evento usamos os telescópios C6-S e NexStar-4SE.\nParticiparam das observações em torno de 20 pessoas. A Figura 1 mostra um dos momentos das pessoas interagindo e observando o céu.\n\n\n\n\n\n\nFigura 1: Pessoas no Observatório observando, com telescópios e à vista desarmada, Júpiter e suas luas, Urano, a Lua e as constelações de Órion, Cão Maior, Cruzeiro do Sul, entre outras."
+    "text": "Com seus quase 4 trilhões de trilhões de megawatts constantemente “fritando” Mercúrio e tornando o céu de Plutão “enluarado”, o Sol é um espetáculo à parte. Longe de ser um mar de aparente estabilidade, guarda em seu interior o movimento frenético das partículas que o compõe.\nGalileu Galilei foi o primeiro a testemunhar isso, observando o Sol com seu telescópio e relatando a existência das manchas solares. Hoje sabemos que são regiões mais frias na superfície solar devido ao confinamento do plasma em imensas linhas de campo magnético, impedindo assim a convecção que renova sua temperatura.\nAqui temos a oportunidade de observar o Sol e suas manchas em tempo real com nossos telescópios. Mesmo utilizando filtros solares adequados, evitamos observar diretamente pela ocular do telescópio. Usamos, ao invés disso, uma câmera de astrofotografia para projetar a imagem do Sol com grande ampliação e, assim, observar os detalhes das manchas solares.\n\nAtividades\nNormalmente, a Jornada do Sol é dividia em três etapas:\n\nProjeção do Sol usando telescópios.\nVisitação ao Relógio Solar e ao Passeio dos Planetas.\nPalestra sobre temas relacionados ao Sol.\n\n\n\nDuração do evento\nO tempo de cada etapa varia entre 15 e 25 minutos, dependendo do número de pessoas e das condições de nebulosidade.\n\n\nFormas de participação\nExistem duas formas de participação no evento:\n\nPequenos grupos de pessoas como grupos de amigos e familiares. Nesse caso não há necessidade de agendamento prévio. Basta comparecer nos dias e horários do evento.\nEscolas. Grupos com muitas pessoas que normalmente vem para o evento em ônibus ou vans. Nesse caso é necessário fazer o agendamento prévio através de formulário específico disponível no calendário de eventos.\n\nO evento Jornada do Sol é gratuito.\n\n\nPúblico alvo\nTodas as pessoas de todas as idades. Crianças devem estar acompanhadas pelos pais ou responsáveis.\n\n\nLocalização\nPraça do Observatório a Olho NU, CCA-UFSCar\nRodovia Anhanguera, km 174 - SP-330 - Araras-SP-BR observe@ufscar.br"
   },
   {
-    "objectID": "blog/posts/pons-brooks_21_04_24/pons-brooks_21_04_24.html#descrição-do-evento",
-    "href": "blog/posts/pons-brooks_21_04_24/pons-brooks_21_04_24.html#descrição-do-evento",
-    "title": "Observação do cometa Pons-Brooks",
+    "objectID": "atividades/atividades.html",
+    "href": "atividades/atividades.html",
+    "title": "Atividades",
     "section": "",
-    "text": "Nos reunimos a partir das 17h45 na praça do Observatório para iniciar a nossa busca pelo fugidio Pons-Brooks. O bacana desse cometa é que ele possui um período orbital de 71 anos, que é semelhante ao do cometa Halley (76 anos). Cometas são objetos que fascinam a humanidade há milênios. Mas foi somente com Edmond Halley, usando a Física de Newton, que se compreendeu que não se tratam de fenômenos atmosféricos, mas que são corpos que executam órbitas em torno do Sol como os planetas.\nNo caso dos cometas, as órbitas são elipses bem achatadas com o Sol próximo a uma das extremidades. A maior parte do tempo eles estão longe do Sol, geladões. Mas durante alguns meses aproximam-se dele, aquecendo-se e produzindo gás e detritos em sua volta – o que vai produzir sua coma e cauda e talvez por isso tenham feito os antigos pensarem que os cometas estavam na atmosfera da Terra.\nNesta mesma data, ainda tivemos a oportunidade de apreciar o evento de conjunção entre Júpiter e Urano, que é o momento em que os dois planetas encontram-se mais próximos um do outro a partir da nossa visão da Terra. Júpiter, facilmente visível a olho nu e Urano, somente com telescópio.\nE para completar nossa seção de observação, observamos a – sempre espetacular – Lua quase cheia com nossos telescópios.\nNeste evento usamos os telescópios C6-S e NexStar-4SE.\nParticiparam das observações em torno de 20 pessoas. A Figura 1 mostra um dos momentos das pessoas interagindo e observando o céu.\n\n\n\n\n\n\nFigura 1: Pessoas no Observatório observando, com telescópios e à vista desarmada, Júpiter e suas luas, Urano, a Lua e as constelações de Órion, Cão Maior, Cruzeiro do Sul, entre outras."
+    "text": "Nesta página reunimos todas as atividades que desenvolvemos rotineiramente que envolvem eventos, exposições, oficinas e sessões de observação do céu.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJornada das Estrelas\n\n\nEvento dedicado à observação do céu noturno com telescópios e a olho nu e à divulgação de astronomia com palestras e exposições.\n\n\n\n\n\n\n\n\n\n\n\n\n\nJornada do Sol\n\n\nEvento dedicado à observação do Sol usando telescópios com os devidos filtros solares.\n\n\n\n\n\n\n\n\n\n\n\n\n\nObservatório a Olho Nu\n\n\nPraça contendo relógios solar e estelar, além de totens informativos sobre as estações, os astrônomos e os planetas.\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstrução de Planisfério\n\n\nOficina dedicada à construção de um planisfério e à aprendizagem da forma correta do seu uso. Ele será um guia precioso na sua jornada de apreciação dos céus estrelados.\n\n\n\n\n\n\n\n\n\n\n\n\n\nObservação do céu\n\n\nEncontros semanais ou quinzenais que ocorrem principalmente no período de estiagem para a observação do céu a olho nu e identificação das principais constelações e estrelas.\n\n\n\n\n\n\n\n\n\n\n\n\n\nPasseio dos Planetas\n\n\nExposição fixa com os planetas do sistema solar em escala reduzida. Viaje pelo Sistema Solar em velocidades superluminais!\n\n\n\n\n\n\n\n\n\n\n\n\n\nPêndulo de Foucault\n\n\nUm dos mais belos experimentos que demonstra que a rotação da Terra é absoluta. Venha conhecer o nosso exemplar!\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesafios online\n\n\nAtividades desenvolvidas em H5P para você se divertir testando seus conhecimentos em astronomia.\n\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
-    "objectID": "blog/posts/pons-brooks_21_04_24/pons-brooks_21_04_24.html#observações",
-    "href": "blog/posts/pons-brooks_21_04_24/pons-brooks_21_04_24.html#observações",
-    "title": "Observação do cometa Pons-Brooks",
-    "section": "Observações",
-    "text": "Observações\n\nLua\nComeçamos a observar a Lua, compartilhando ainda o resto do dia com o Sol. Muito bonita como sempre.\n\n\n\nCrianças fazendo suas primeiras observações.\n\n\n\n\n\nLua sendo observada no horizonte Leste\n\n\n\n\nJúpiter e Urano\nPouco tempo após o por do Sol, começamos a ver Júpiter, o gigante gasoso, com suas quatro maiores luas descobertas por Galileu Galilei e, com o avanço da noite, observamos Urano, seu avô (ao menos na mitologia grega). Infelizmente, não conseguimos tirar uma foto dessa observação e mostramos na Figura 2 uma simulação bastante próxima do que vimos no céu construída com o Stellarium\n\n\n\n\n\n\nFigura 2: Simulação, via Stellarium, da observação simultânea de seis astros do sistema solar: Júpiter, Ganimedes, Io, Europa, Calisto e Urano.\n\n\n\n\n\nCometa Pons-Brooks\nApós as excelentes observações acima, estávamos quase desistindo de tentar encontrar o cometa. Mas, usando algumas estrelas da constelação do Touro como referência, finalmente conseguimos fechar a noite com chave de ouro. A Figura 3 mostra uma simulação bastante fiel do que conseguimos observar.\n\n\n\n\n\n\nFigura 3: Simulação, via Stellarium, da nossa observação do cometa Pons-Brooks realizada às 18h40 do dia 21/04/2024."
-  },
-  {
-    "objectID": "blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html",
-    "href": "blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html",
-    "title": "Escola Maria Rosa - nov/2023",
+    "objectID": "atividades/passeio_dos_planetas/passeio_dos_planetas.html",
+    "href": "atividades/passeio_dos_planetas/passeio_dos_planetas.html",
+    "title": "Passeio dos Planetas",
     "section": "",
-    "text": "O evento Jornada do Sol ocorreu no dia 09 de novembro de 2023 no CCA-UFSCar e teve duração de, aproximadamente, duas horas. A Jornada foi organizada pelos bolsistas do projeto obseRVe (Daniel Oliveira, Guilherme Nunes e Vivian Lara) juntamente com o professor João Teles e com o técnico em laboratório, Fernando Apolinário.\nA Escola Estadual Professora Maria Rosa Nucci Pacífico Homem, situada no município de Araras-SP, foi a convidada para participar deste evento. Os estudantes do 1° ano do Ensino Médio foram o público alvo do evento e cerca de 90 pessoas compareceram às programações.\n\n\n\nFoto tirada com a turma do Maria Rosa junto com os bolsistas."
+    "text": "No momento, esta atividade encontra-se em construção e assim que estiver pronta disponibilizaremos aqui os detalhes da sua localização e forma de visitação."
   },
   {
-    "objectID": "blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html#descrição-do-evento",
-    "href": "blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html#descrição-do-evento",
-    "title": "Escola Maria Rosa - nov/2023",
+    "objectID": "sobre/sobre.html",
+    "href": "sobre/sobre.html",
+    "title": "Sobre o obseRVe",
     "section": "",
-    "text": "O evento Jornada do Sol ocorreu no dia 09 de novembro de 2023 no CCA-UFSCar e teve duração de, aproximadamente, duas horas. A Jornada foi organizada pelos bolsistas do projeto obseRVe (Daniel Oliveira, Guilherme Nunes e Vivian Lara) juntamente com o professor João Teles e com o técnico em laboratório, Fernando Apolinário.\nA Escola Estadual Professora Maria Rosa Nucci Pacífico Homem, situada no município de Araras-SP, foi a convidada para participar deste evento. Os estudantes do 1° ano do Ensino Médio foram o público alvo do evento e cerca de 90 pessoas compareceram às programações.\n\n\n\nFoto tirada com a turma do Maria Rosa junto com os bolsistas."
+    "text": "O obseRVe foi formado no ano de 2023 a partir da união de várias ações envolvendo o ensino e a divulgação de astronomia que vem ocorrendo no campus de Araras da UFSCar desde a fundação do Curso de Licenciatura em Física no ano de 2009."
   },
   {
-    "objectID": "blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html#atividades-realizadas",
-    "href": "blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html#atividades-realizadas",
-    "title": "Escola Maria Rosa - nov/2023",
-    "section": "Atividades realizadas",
-    "text": "Atividades realizadas\nA Jornada do Sol contou com três atividades:\n\nPalestra no anfiteatro sobre o Sol e explosões solares.\nObservação do Sol com o telescópio Schmidt-Cassegrain.\nPasseio pelo observatório e explicação sobre o relógio solar.\n\n\nPalestra sobre o Sol e explosões solares\nA palestra foi a primeira atividade. A apresentação foi ministrada pela bolsista Vivian Lara Silva, graduanda em Física. O local de realização da exposição foi o anfiteatro do CCA-UFSCar. Antes de começar o evento sobre o Sol, o professor João Teles mostrou para a turma quais eram os cursos oferecidos no CCA-UFSCar e mostrou também qual era a área de atuação de cada curso. Depois desta breve apresentação sobre o campus, deu-se início a palestra.\nA apresentação foi dividida em três momentos: estruturas e funcionamento solar, campo magnético solar e explosões solares.\nA palestra em si teve duração de, aproximadamente, 45 minutos. Foi perceptível a participação e a curiosidade de alguns alunos. Logo após a apresentação, o bolsista Daniel Oliveira conduziu os jovens até o bloco B. Chegando lá, foi necessário dividir a turma em dois grupos para que houvesse um revezamento entre os grupos e, assim, melhorar o aproveitamento das atividades que faltavam: observação do sol com o telescópio e explicação do relógio solar.\n\n\n\nPalestra realizada no anfiteatro do CCA-UFSCar.\n\n\n\n\nObservação do Sol com o telescópio\nA observação do Sol foi realizada com o telescópio Schmidt-Cassegrain. Esta atividade foi ministrada pelo bolsista Guilherme Nunes e teve duração em torno de 30 minutos. Nesta parte do evento, foi necessário o uso de um filtro para a observação do Sol com o telescópio, visto que, como a luz solar é muito intensa e o telescópio é composto por conjuntos de lentes, ver o Sol sem nenhuma proteção pode causar danos irreversíveis para a visão. Logo, conectou-se uma câmera de astrofotografia ao telescópio e, esta, ao computador para captarmos as imagens do Sol em tempo real. Também fez-se um comparativo, em tempo real, das nossas imagens com a sonda Solar and Heliospheric Observatory (SOHO).\nEsta atividade foi muito interessante pois, as manchas solares foram um dos principais assuntos abordados durante a palestra e os alunos tiveram a oportunidade de vê-las em tempo real com nosso telescópio.\n\n\n\nSessão de observação do Sol com telescópio.\n\n\n\n\nPasseio pelo Observatório a Olho Nu e explicação sobre o relógio solar\nO passeio pelo observatório e a explicação sobre o relógio solar foi conduzida pelo bolsista Daniel de Oliveira. A atividade teve como foco principal elucidar para os estudantes como se dava o funcionamento de um relógio solar, já que este é um dos instrumentos de contagem do tempo mais antigos da história da humanidade. Nesta parte da programação os alunos tiveram a oportunidade de conhecer o observatório que conta com: oito placas sobre planetas, estações e astrônomos, relógio solar, relógio estelar e bússola.\nO bolsista Daniel explicou à turma como era possível saber as horas do dia somente com os raios de Sol incidentes no aparato. Neste momento, os alunos também viram um pouco da história da astronomia pelas placas do observatório.\n\n\n\nEstudantes em visitação ao Observatório a Olho Nu"
+    "objectID": "sobre/sobre.html#logotipo",
+    "href": "sobre/sobre.html#logotipo",
+    "title": "Sobre o obseRVe",
+    "section": "Logotipo",
+    "text": "Logotipo\nPara a escolha do logotipo do grupo, pensamos em algo que refletisse o tipo de atividades e ferramentas que utilizamos em nossos trabalhos.\nPor um lado, tratamos dos conhecimentos básicos da Astronomia desbravados por pensadores como Galileu Galilei. Por outro, estudamos tecnologias que tornem esses conhecimentos mais sensoriais, cativantes e contemporizados.\nDaí surgiu a ideia de consultar a caligrafia original de Galileu em documentos históricos e copiar as letras apropriadas para formar a palavra obseRVe.\n\nQuanto à palavra em si, buscávamos algo simples e direto, com grafia semelhante em várias línguas ocidentais e que, obviamente, remetesse a algum aspecto fundamental da Astronomia.\nNesse sentido, a palavra obseRVe surge no imperativo como um convite ao fazer, ao experimentar e à ação, ensejando, ao mesmo tempo, a contemplação – características ancestrais desta que é uma das mais belas das ciências.\nPor fim, temos as letras maiúsculas “R” e “V” diferenciando-se das demais em alusão à sigla para “Realidade Virtual”, fazendo a ponte com as tecnologias que abrem novas perspectivas de experiências e interações muitas vezes inviáveis – financeiramente ou tecnicamente – de serem realizadas no mundo físico."
   },
   {
-    "objectID": "blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html#conclusão",
-    "href": "blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html#conclusão",
-    "title": "Escola Maria Rosa - nov/2023",
-    "section": "Conclusão",
-    "text": "Conclusão\nPode-se concluir que o evento foi bem proveitoso, pois houve participação dos alunos durante as atividades. No dia não houve inconveniências climáticas e todos os bolsistas contribuíram com as atividades.\nA realização de eventos como a Jornada do Sol são importantes para a divulgação da astronomia para a sociedade e, também, para que os estudantes conheçam e se aproximem da universidade, incentivando-os a entrarem em uma instituição de ensino superior.\nA divulgação científica é um método importante para combater as fakes news que são tão comuns e corriqueiras nos dias atuais, logo o nosso compromisso como instituição de ensino é alertar e difundir o conhecimento científico para a comunidade."
+    "objectID": "sobre/sobre.html#histórico",
+    "href": "sobre/sobre.html#histórico",
+    "title": "Sobre o obseRVe",
+    "section": "Histórico",
+    "text": "Histórico\n\n2009:\n\nInaugurado o evento Jornada das Estrelas pelo Prof. Alexandre Colato. Desde o início o astrônomo Dr. Gustavo Rojas apoia o evento com palestras, orientações e trazendo sua equipe e telescópios de São Carlos.\nRealização da II Jornada das Estrelas no 2º semestre.\n\n2010:\n\nRealização da III Jornada das Estrelas.\nProf. João Teles se une ao Prof. Alexandre a partir da IV Jornada das Estrelas.\n\n2011:\n\nSão adquiridos os dois primeiros telescópios: Maksutov Nextar 4SE e Dobsoniano com recursos do CCA/UFSCar.\nRealização da V Jornada das Estrelas.\n\n2012:\n\nÉ aprovado o projeto (edital PROEXT/MEC) “Universo em movimento – diferentes abordagens no ensino e divulgação da astronomia” em parceria com o Prof. Adilson de Oliveira.\nRealização da VI Jornada das Estrelas.\n\n2012 e 2013 – Foram realizadas diversas ações dentro do projeto “Universo em movimento”:\n\nCurso de formação inicial e formação continuada em “Astronomia voltada para a Educação Básica”.\nRealização da VIII e IX Jornada das Estrelas em 2013.\nExposições de Astronomia na Biblioteca Municipal de Araras.\nExposições de Astronomia nas Escolas de Ensino Fundamental e Médio de Araras.\nParticipações no Programa International Astronomical Search Collaboration (IASC).\nParticipação no programa Globe at Night em parceria com a Profa. Lilia C. P. Thomaz na E.M.E.F. Prof. Joel Job Fachini pelo PIBID.\n\n2014:\n\nÉ desenvolvida a atividade Medindo a distância da Terra à Lua dentro do projeto “Diversificação curricular: possibilidade de aperfeiçoamento e valorização da formação de futuros professores de física” pelo Programa Licenciaturas Internacionais coordenado pelo Prof. Paulo C. de Faria em parceria com a Universidade de Aveiro, Portugal.\nÉ aprovado o projeto PROEXT/MEC “Sementes - Integração de estratégias e metodologias voltadas à consolidação da cultura científica visando a inclusão social” novamente em parceria com o Prof. Adilson, agora como coordenador principal, e envolvendo ações e parcerias com todos os campi da UFSCar.\n\n2014 e 2015 – As ações realizadas dentro do projeto “Sementes” mais especificamente voltadas à cidade de Araras foram:\n\nParceria universidade-escola com o Prof. Alexandre Barai envolvendo “Divulgação de conhecimentos de Astronomia no contexto da Olimpíada Brasileira de Astronomia”.\nOfertas das ACIEPEs “Divulgação de conhecimento de Astronomia e Astronáutica” voltadas a professores em formação e em exercício.\nAquisição do telescópio Schmidt-Cassegrain equatorial C6S.\nRealização da X e XI Jornada das Estrelas.\n\n2015 :\n\nÉ inaugurado o Observatório a Olho Nu do CCA/UFSCar.\nSão construídos os globos celeste e terrestre de 75 cm de diâmetro.\nRealização da XII Jornada das Estrelas.\nRealização da I Jornada do Sol em pareceria com o Prof. Fabrizzio Montezzo e o Prof. Dirceu Nardone do grupo Gearc.\nParticipação no evento Escola de Astros realizado na Unesp de Rio Claro.\n\n2016:\n\nRealização da ACIEPE Ensino de astronomia através da participação no International Astronomical Search Collaboration (IASC) que teve a inscrição de 80 estudantes do Ensino Médio de Araras e outras localidades do estado de SP.\nÉ adquirida a câmera para astrofotografia ZWO ASI290MC.\nRealização da XIII Jornada das Estrelas.\n\n2017: Realização da XIV Jornada das Estrelas.\n2018: Início do desenvolvimento do Projetor Estelar.\n2019: Realização da XV Jornada das Estrelas.\n2020: Oferta do curso de extensão “Astronomia voltada para a Educação Básica” de forma remota durante a pandemia de Covid-19 que recebeu mais de 100 inscrições de várias cidades do Brasil.\n2022:\n\nConclusão do hardware e software do Projetor Estelar e finalização de pesquisa de mestrado envolvendo sua utilização no ensino de astronomia.\nRealização da XVI Jornada das Estrelas.\n\n2023:\n\nÉ iniciado o projeto CNPq “Astronomia e cultura astronômica: do céu real ao céu virtual” em parceria com o Prof. Vitor Coluci da FT-Unicamp.\nRealização da XVII Jornada das Estrelas.\nCriação do grupo obseRVe e adesão do Prof. Sílvio Dahmen ao grupo."
   },
   {
-    "objectID": "blog/blog.html",
-    "href": "blog/blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Ordenar por\n       Pré-selecionado\n         \n          Data - Mais velho\n        \n         \n          Data - O mais novo\n        \n         \n          Título\n        \n         \n          Categoria\n        \n         \n          Descrição\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nSistema Solar em realidade aumentada no colégio INSA\n\n\n\n\n\n\n\n\n\n\n\n13 de mai. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\nFotos do cometa Pons-Brooks\n\n\n\n\n\n\n\n\n\n\n\n7 de mai. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\nObservação do cometa Pons-Brooks\n\n\n\n\n\n\n\n\n\n\n\n21 de abr. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\nEscola Maria Rosa - nov/2023\n\n\n\n\n\n\n\n\n\n\n\n9 de nov. de 2023\n\n\n\n\n\n\nNenhum item correspondente"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "*obseRVe*",
-    "section": "",
-    "text": "Do céu real ao céu virtual - ensino e divulgação de astronomia\n\n\nO obseRVe é um grupo de estudos voltado à divulgação e ensino de astronomia, desenvolvendo e utilizando recursos didáticos para a apreciação e compreensão dos fenômenos celestes.\n\n\n\n\n\n\n\n\n\n\n\nAtividades\n\n\n\n\n\n\n\nProjetos\n\n\n\n\n\n\n\nCalendário de eventos\n\n\n\n\n\n\n\nBlog\n\n\n\n\n\n\n\n\nUm dos nossos enfoques tem sido no estudo e desenvolvimento de instrumentação física e digital que proporcionem experiências ricas e diversificadas para as pessoas interessadas no universo da astronomia.\n\n\n\n\n\n\n\n\n\nEquipe\n\n\n\n\n\n\n\nAcervo\n\n\n\n\n\n\n\nSobre o Observe\n\n\n\n\n\n\n\nComo chegar"
-  },
-  {
-    "objectID": "calendario/eventos/xvii_jornada_das_estrelas.html",
-    "href": "calendario/eventos/xvii_jornada_das_estrelas.html",
-    "title": "XVII Jornada das Estrelas",
-    "section": "",
-    "text": "Entre os dias 18/06/24 e 20/06/24 ocorrerá a XVII edição do evento Jornada das Estrelas.\nNesta edição teremos:\nCada uma das três atividades terá duração entre 20 e 25 minutos, fazendo com que o circuito completo seja realizado em até 1 hora e 10 minutos.\nO evento é gratuito e o público geral pode comparecer sem agendamento. Entretanto, as escolas precisam fazer a solicitação de agendamento conforme instruções abaixo."
-  },
-  {
-    "objectID": "calendario/eventos/xvii_jornada_das_estrelas.html#instruções-para-as-escolas",
-    "href": "calendario/eventos/xvii_jornada_das_estrelas.html#instruções-para-as-escolas",
-    "title": "XVII Jornada das Estrelas",
-    "section": "Instruções para as escolas",
-    "text": "Instruções para as escolas\n\nEscolas que queiram trazer seus alunos deverão, obrigatoriamente, fazer o agendamento do dia e horário de visitação preenchendo o formulário abaixo e enviando a solicitação gerada para o email observe@ufscar.br.\nO agendamento poderá ser feito até o dia 14 de junho. As escolas que não puderem vir deverão cancelar o agendamento com antecedência para liberar horário para outras escolas.\nSerão aceitos no máximo 4 grupos de 50 alunos por horário. Para cada grupo, deverá haver, obrigatoriamente, pelo menos um professor responsável. Uma mesma escola poderá vir com mais de um grupo desde que haja pelo menos um professor diferente para cada grupo em um mesmo horário.\nAs escolas que vierem com grupos que não tiverem sido agendados e confirmados não poderão participar do evento. Todas as escolas serão contatadas por e-mail ou telefone para confirmação do agendamento. Ou seja, não basta fazer o agendamento, é necessário que a escola receba a confirmação por email para poder participar.\nEscolas que chegarem atrasadas em relação ao horário agendado poderão perder alguma das atividades acima, sendo direcionadas para a atividade seguinte desde que dentro do período agendado.\n\nPara a UFSCar é uma grande satisfação receber as escolas no evento, trazendo uma grande motivação para que ele ocorra anualmente. Entretanto, as escolas que descumprirem com as informações aqui descritas não poderão participar do evento. Isso é necessário para que as atividades ocorram de forma proveitosa para todos."
-  },
-  {
-    "objectID": "calendario/eventos/xvii_jornada_das_estrelas.html#form_escolas",
-    "href": "calendario/eventos/xvii_jornada_das_estrelas.html#form_escolas",
-    "title": "XVII Jornada das Estrelas",
-    "section": "Formulário para as escolas",
-    "text": "Formulário para as escolas\n\n   \n        Escola\n        \n     \n   \n        Município\n        \n     \n    \n   Gerar solicitação\n   Solicitação\n        \n    \n\n\n\n\n\n\n\n\n\nAtenção\n\n\n\nA solicitação não é enviada automaticamente. É necessário que você envie manualmente o texto de solicitação de agendamento para o email observe@ufscar.br"
-  },
-  {
-    "objectID": "calendario/eventos/xvii_jornada_das_estrelas.html#agendamentos-confirmados",
-    "href": "calendario/eventos/xvii_jornada_das_estrelas.html#agendamentos-confirmados",
-    "title": "XVII Jornada das Estrelas",
-    "section": "Agendamentos confirmados",
-    "text": "Agendamentos confirmados"
-  },
-  {
-    "objectID": "calendario/eventos/pons_brooks.html",
-    "href": "calendario/eventos/pons_brooks.html",
-    "title": "Observação do cometa Pons-Brook",
-    "section": "",
-    "text": "Este evento está encerrado\n\n\n\nLeia sobre o seu relato em Observação do cometa Pons-Brooks em 21/04/24\n\n\nNo final da tarde deste domingo (21/04) nos reuniremos na praça do Observatório a Olho Nu do CCA-UFSCar a partir das 17h45 (horário do pôr do Sol) para tentarmos observer o cometa Pons-Brooks. Dificilmente o cometa será visível a olho nu, por isso utilizaremos um dos nossos telescópios. Esperamos conseguir observá-lo no máximo até às 18h40, quando estará quase se pondo. Coincidentemente, na mesma região do céu, Urano estará em conjunção com Júpiter e poderemos tentar testemunhar esse evento também (apesar de ser improvável conseguirmos identificar Urano com o céu ainda levemente claro). Por fim, fecharemos o encontro observando a Lua – nossa única garantia – quase cheia no horizonte oposto."
-  },
-  {
-    "objectID": "calendario/calendario.html",
-    "href": "calendario/calendario.html",
-    "title": "Calendário de eventos",
-    "section": "",
-    "text": "Próximos eventos\n\n\n\n\n\n\nXVII Jornada das Estrelas\n\n\n\n\n\nNenhum item correspondente\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Pré-selecionado\n         \n          Data - Mais velho\n        \n         \n          Data - O mais novo\n        \n         \n          Encerrados\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nEncerrados\n\n\nData\n\n\n\n\n\n\nObservação do cometa Pons-Brook\n\n\n21 de abr. de 2024\n\n\n\n\n\nNenhum item correspondente"
-  },
-  {
-    "objectID": "README.html",
-    "href": "README.html",
-    "title": "Código fonte do Website do grupo obseRVe",
-    "section": "",
-    "text": "Todos os itens da página inicial acessíveis na barra de navegação.\nA barra de navegação também contém ícones para o Instagram e futuramente para o Youtube.\n\n\n\n\n\nEsta página reúne todas as atividades que envolvem a participação do público interessado. Portanto, deve conter informações precisas e diretas do que se trata a atividade, de como participar, se inscrever, como chegar, etc.\nPor enquanto, publicamos as seguintes atividades:\n\nJornada das Estrelas\nJornada do Sol\nObservatório a Olho Nu\nConstrução de Planisfério\nObservação do céu\nPasseio dos Planetas\nPêndulo de Foucault\nDesafios online usando H5P\n\n\n\n\nNo momento esta página está em construção. Ela é dedicada ao compartilhamento do detalhamento dos projetos e equipamentos desenvolvidos. Cada item adicionado, pode ter diferentes níveis de detalhamento para diferentes faixas etárias e diferentes públicos.\nPor exemplo, o pêndulo de Foucault pode ser incluído como um projeto nesta página, a qual pode conter sub páginas. Em uma delas mostra-se explicações simples, simulações e filmagens, por exemplo. Em outra mostra-se dados técnicos da eletrônica, da mecânica do suporte, das medidas de precessão, etc.\n\n\n\nDivido nas abas de eventos agendados e eventos encerrados. Será na forma de um quarto.org listing, cada evento conterá a data, a forma específica de participação – quando diferente do descrito na página de Atividades, senão será dado o link para a respectiva atividade – formulário de inscrição, quando for o caso.\n\n\n\nPostagens dos eventos e visitações realizadas, com descrição da faixa etária do público e quantidade de pessoas, nome das escolas que visitaram quando for o caso, quais atividades foram realizadas no evento, etc. O texto tem que ser o mais detalhado possível.\nImportante usar um mesmo padrão. A primeira postagem inserida foi a visita da escola Maria Rosa em novembro/2023. É importante usar o mesmo padrão dessa postagem para as postagens futuras.\n\n\n\nEquipe do grupo Observe separada em professores, técnicos e estudantes.\n\n\n\nMateriais do projeto. Cada item é separado em abas contendo descrição, especificações e formas de uso.\n\n\n\nExplicação sobre o histórico das ações de astronomia que levaram a criação do obseRVe e a explicação da escolha do logotipo.\n\n\n\nExplicação de como acessar o Observatório a Olho Nu através de mapa gerado pela biblioteca em Python contendo explicações sobre as duas entradas do CCA-UFSCar.\n\n\n\nAinda não foi implementado. Mas abaixo, temos alguns exemplos.\n&gt;- [ExpLORa](https://wordpress.ft.unicamp.br/explora/)\n&gt;- [Observatório Astronômico da UFSCar](http://www.observatorio.ufscar.br/)\n&gt;- [Observatório Unesp - Bauru](https://www.fc.unesp.br/#!/observatorio)\n&gt;- [Planeta Rio](https://planeta.rio/)\n&gt;- [Observatório Astronômico da UFSC](https://observatorio.ufsc.br/)"
-  },
-  {
-    "objectID": "README.html#barra-de-navegação",
-    "href": "README.html#barra-de-navegação",
-    "title": "Código fonte do Website do grupo obseRVe",
-    "section": "",
-    "text": "Todos os itens da página inicial acessíveis na barra de navegação.\nA barra de navegação também contém ícones para o Instagram e futuramente para o Youtube."
-  },
-  {
-    "objectID": "README.html#página-principal",
-    "href": "README.html#página-principal",
-    "title": "Código fonte do Website do grupo obseRVe",
-    "section": "",
-    "text": "Esta página reúne todas as atividades que envolvem a participação do público interessado. Portanto, deve conter informações precisas e diretas do que se trata a atividade, de como participar, se inscrever, como chegar, etc.\nPor enquanto, publicamos as seguintes atividades:\n\nJornada das Estrelas\nJornada do Sol\nObservatório a Olho Nu\nConstrução de Planisfério\nObservação do céu\nPasseio dos Planetas\nPêndulo de Foucault\nDesafios online usando H5P\n\n\n\n\nNo momento esta página está em construção. Ela é dedicada ao compartilhamento do detalhamento dos projetos e equipamentos desenvolvidos. Cada item adicionado, pode ter diferentes níveis de detalhamento para diferentes faixas etárias e diferentes públicos.\nPor exemplo, o pêndulo de Foucault pode ser incluído como um projeto nesta página, a qual pode conter sub páginas. Em uma delas mostra-se explicações simples, simulações e filmagens, por exemplo. Em outra mostra-se dados técnicos da eletrônica, da mecânica do suporte, das medidas de precessão, etc.\n\n\n\nDivido nas abas de eventos agendados e eventos encerrados. Será na forma de um quarto.org listing, cada evento conterá a data, a forma específica de participação – quando diferente do descrito na página de Atividades, senão será dado o link para a respectiva atividade – formulário de inscrição, quando for o caso.\n\n\n\nPostagens dos eventos e visitações realizadas, com descrição da faixa etária do público e quantidade de pessoas, nome das escolas que visitaram quando for o caso, quais atividades foram realizadas no evento, etc. O texto tem que ser o mais detalhado possível.\nImportante usar um mesmo padrão. A primeira postagem inserida foi a visita da escola Maria Rosa em novembro/2023. É importante usar o mesmo padrão dessa postagem para as postagens futuras.\n\n\n\nEquipe do grupo Observe separada em professores, técnicos e estudantes.\n\n\n\nMateriais do projeto. Cada item é separado em abas contendo descrição, especificações e formas de uso.\n\n\n\nExplicação sobre o histórico das ações de astronomia que levaram a criação do obseRVe e a explicação da escolha do logotipo.\n\n\n\nExplicação de como acessar o Observatório a Olho Nu através de mapa gerado pela biblioteca em Python contendo explicações sobre as duas entradas do CCA-UFSCar.\n\n\n\nAinda não foi implementado. Mas abaixo, temos alguns exemplos.\n&gt;- [ExpLORa](https://wordpress.ft.unicamp.br/explora/)\n&gt;- [Observatório Astronômico da UFSCar](http://www.observatorio.ufscar.br/)\n&gt;- [Observatório Unesp - Bauru](https://www.fc.unesp.br/#!/observatorio)\n&gt;- [Planeta Rio](https://planeta.rio/)\n&gt;- [Observatório Astronômico da UFSC](https://observatorio.ufsc.br/)"
-  },
-  {
-    "objectID": "README.html#quarto",
-    "href": "README.html#quarto",
-    "title": "Código fonte do Website do grupo obseRVe",
-    "section": "1. Quarto",
-    "text": "1. Quarto\nO website do obseRVe é desenvolvido com a ferramenta Quarto. Ela possui uma documentação bastante amigável. Neste projeto, focamos mais em Website, mas outros recursos também serão utilizados, como inclusão de códigos python, por exemplo.\nA ideia do Quarto é você editar todos os arquivos direto em txt usando a IDE da sua preferência. Sugerimos o VS Code junto com a extensão do Quarto para VS Code."
-  },
-  {
-    "objectID": "README.html#github",
-    "href": "README.html#github",
-    "title": "Código fonte do Website do grupo obseRVe",
-    "section": "2. GitHub",
-    "text": "2. GitHub\nSe você não conhece o sistema de controle de versão Git ou o repositório GitHub e sua forma de uso, é recomendável o seu estudo na página:\nSobre o GitHub e o Git.\nA qual é subdividida em:\n\nCriar uma conta\nOlá, Mundo\nConfigure o seu perfil\nEncontre inspiração\nBaixar arquivos\nCarregar um projeto\nRecursos de aprendizagem\n\nPara uma documentação específica do Git, incluindo vídeos tutoriais, acesse Git documentation.\nSe você for usar o VS Code para editar o website, também é recomendável o estudo do material abaixo para ter uma boa integração do VS Code com o Git e o GitHub:\n\nIntroduction to Git in VS Code\nWorking with GitHub in VS Code\n\n\nGuia direto para a linha de comando\nEste é um guia direto usando a linha de comando do seu sistema operacional e, por isso, é independente do editor de texto ou da IDE usada para editar o website.\n\nPrimeira vez no Git\nInstale o Git no seu computador.\n\n\nPrimeira vez no GitHub\nCrie uma conta no GitHub\n\n\nPrimeira vez no repositório do obseRVe\nFaça o clone do repositório."
-  },
-  {
-    "objectID": "blog/posts/pons-brooks_07_05_24/pons-brooks_07_05_24.html",
-    "href": "blog/posts/pons-brooks_07_05_24/pons-brooks_07_05_24.html",
-    "title": "Fotos do cometa Pons-Brooks",
-    "section": "",
-    "text": "O cometa Pons-Brooks esteve no periélio (ponto de maior proximidade do Sol) ao final de abril. Mas isso não implica que deixou de ser visível com telescópios por várias semanas ou meses posteriores. Com uma pequena perda de magnitude conseguimos observar novamente o cometa e fazer algo que não foi possível no evento de 21/04/24: fotografar o danado!\nDe forma totalmente não planejada, eu (João Teles), Sílvio Dahmen, Fernando Apolinário e meu estimado egresso do curso de Física, Fernando Pedersen (que estava nos visitando nessa ocasião), nos reunimos em torno das 18h no Observatório e montamos novamente o telescópio C6-S.\nCom a câmera SV305 acoplada à saída da ocular do telescópio, fizemos as fotos abaixo.\n\n\n\nFoto do cometa Pons-Brooks em 07/05/2024 em torno das 18h30 a partir do Observatório do CCA-UFSCar. Tempo de exposição de 10 s.\n\n\n\n\n\nFoto do cometa Pons-Brooks em 07/05/2024 em torno das 18h30 a partir do Observatório do CCA-UFSCar. Tempo de exposição de 30 s. Nesta foto é possível observar três estrelas bem fracas na parte superior esquerda da imagem. A mais forte possui magnitude 10,55 e a mais fraca 13,80 (bastante aquém da sensibilidade do olho nu). São todas estrelas da constelação de Eridanus."
+    "objectID": "sobre/sobre.html#financiamento",
+    "href": "sobre/sobre.html#financiamento",
+    "title": "Sobre o obseRVe",
+    "section": "Financiamento",
+    "text": "Financiamento\nAtualmente o grupo obseRVe é financiado pelo CNPq por meio da Chamada CNPq/MCTI/FNDCT 39/2022 “Programa de Apoio a Museus e Centros de Ciência e Tecnologia e a Espaços Científico-Culturais” (processo 407086/2022-6) dentro da Linha 3: Divulgação Científica e Educação Museal."
   },
   {
     "objectID": "blog/posts/sistema_solar_vr_13_05_24/sistema_solar_vr_13_05_24.html",
@@ -315,116 +210,88 @@
     "text": "Desafios pedagógicos"
   },
   {
-    "objectID": "equipe/tecnicos/fernando_apolinario.html",
-    "href": "equipe/tecnicos/fernando_apolinario.html",
-    "title": "Fernando Rezende Apolinário",
+    "objectID": "blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html",
+    "href": "blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html",
+    "title": "Escola Maria Rosa - nov/2023",
     "section": "",
-    "text": "Descrição do Fernando.\nFormação\nGraduado em Física pela Unicamp.\nAtuação profissional\nTécnico de laboratório | UFSCar | 2015 - presente"
+    "text": "O evento Jornada do Sol ocorreu no dia 09 de novembro de 2023 no CCA-UFSCar e teve duração de, aproximadamente, duas horas. A Jornada foi organizada pelos bolsistas do projeto obseRVe (Daniel Oliveira, Guilherme Nunes e Vivian Lara) juntamente com o professor João Teles e com o técnico em laboratório, Fernando Apolinário.\nA Escola Estadual Professora Maria Rosa Nucci Pacífico Homem, situada no município de Araras-SP, foi a convidada para participar deste evento. Os estudantes do 1° ano do Ensino Médio foram o público alvo do evento e cerca de 90 pessoas compareceram às programações.\n\n\n\nFoto tirada com a turma do Maria Rosa junto com os bolsistas."
   },
   {
-    "objectID": "equipe/professores/joao_teles.html",
-    "href": "equipe/professores/joao_teles.html",
-    "title": "João Teles de Carvalho Neto",
+    "objectID": "blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html#descrição-do-evento",
+    "href": "blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html#descrição-do-evento",
+    "title": "Escola Maria Rosa - nov/2023",
     "section": "",
-    "text": "Tem experiência em Ressonância Magnética Nuclear e Computação Quântica. Orientou trabalhos de graduação e mestrado em Ensino de Física e trabalha desde o início de sua atuação docente com ensino e divulgação de Astronomia.\nFormação\nGraduado em Física pela Unicamp\nDoutor em Física pelo IFSC-USP\nAtuação profissional\nProfessor | UFMT | 2009 - 2010\nProfessor | UFSCar | 2010 - presente"
+    "text": "O evento Jornada do Sol ocorreu no dia 09 de novembro de 2023 no CCA-UFSCar e teve duração de, aproximadamente, duas horas. A Jornada foi organizada pelos bolsistas do projeto obseRVe (Daniel Oliveira, Guilherme Nunes e Vivian Lara) juntamente com o professor João Teles e com o técnico em laboratório, Fernando Apolinário.\nA Escola Estadual Professora Maria Rosa Nucci Pacífico Homem, situada no município de Araras-SP, foi a convidada para participar deste evento. Os estudantes do 1° ano do Ensino Médio foram o público alvo do evento e cerca de 90 pessoas compareceram às programações.\n\n\n\nFoto tirada com a turma do Maria Rosa junto com os bolsistas."
   },
   {
-    "objectID": "equipe/professores/vitor_coluci.html",
-    "href": "equipe/professores/vitor_coluci.html",
-    "title": "Vitor Rafael Coluci",
+    "objectID": "blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html#atividades-realizadas",
+    "href": "blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html#atividades-realizadas",
+    "title": "Escola Maria Rosa - nov/2023",
+    "section": "Atividades realizadas",
+    "text": "Atividades realizadas\nA Jornada do Sol contou com três atividades:\n\nPalestra no anfiteatro sobre o Sol e explosões solares.\nObservação do Sol com o telescópio Schmidt-Cassegrain.\nPasseio pelo observatório e explicação sobre o relógio solar.\n\n\nPalestra sobre o Sol e explosões solares\nA palestra foi a primeira atividade. A apresentação foi ministrada pela bolsista Vivian Lara Silva, graduanda em Física. O local de realização da exposição foi o anfiteatro do CCA-UFSCar. Antes de começar o evento sobre o Sol, o professor João Teles mostrou para a turma quais eram os cursos oferecidos no CCA-UFSCar e mostrou também qual era a área de atuação de cada curso. Depois desta breve apresentação sobre o campus, deu-se início a palestra.\nA apresentação foi dividida em três momentos: estruturas e funcionamento solar, campo magnético solar e explosões solares.\nA palestra em si teve duração de, aproximadamente, 45 minutos. Foi perceptível a participação e a curiosidade de alguns alunos. Logo após a apresentação, o bolsista Daniel Oliveira conduziu os jovens até o bloco B. Chegando lá, foi necessário dividir a turma em dois grupos para que houvesse um revezamento entre os grupos e, assim, melhorar o aproveitamento das atividades que faltavam: observação do sol com o telescópio e explicação do relógio solar.\n\n\n\nPalestra realizada no anfiteatro do CCA-UFSCar.\n\n\n\n\nObservação do Sol com o telescópio\nA observação do Sol foi realizada com o telescópio Schmidt-Cassegrain. Esta atividade foi ministrada pelo bolsista Guilherme Nunes e teve duração em torno de 30 minutos. Nesta parte do evento, foi necessário o uso de um filtro para a observação do Sol com o telescópio, visto que, como a luz solar é muito intensa e o telescópio é composto por conjuntos de lentes, ver o Sol sem nenhuma proteção pode causar danos irreversíveis para a visão. Logo, conectou-se uma câmera de astrofotografia ao telescópio e, esta, ao computador para captarmos as imagens do Sol em tempo real. Também fez-se um comparativo, em tempo real, das nossas imagens com a sonda Solar and Heliospheric Observatory (SOHO).\nEsta atividade foi muito interessante pois, as manchas solares foram um dos principais assuntos abordados durante a palestra e os alunos tiveram a oportunidade de vê-las em tempo real com nosso telescópio.\n\n\n\nSessão de observação do Sol com telescópio.\n\n\n\n\nPasseio pelo Observatório a Olho Nu e explicação sobre o relógio solar\nO passeio pelo observatório e a explicação sobre o relógio solar foi conduzida pelo bolsista Daniel de Oliveira. A atividade teve como foco principal elucidar para os estudantes como se dava o funcionamento de um relógio solar, já que este é um dos instrumentos de contagem do tempo mais antigos da história da humanidade. Nesta parte da programação os alunos tiveram a oportunidade de conhecer o observatório que conta com: oito placas sobre planetas, estações e astrônomos, relógio solar, relógio estelar e bússola.\nO bolsista Daniel explicou à turma como era possível saber as horas do dia somente com os raios de Sol incidentes no aparato. Neste momento, os alunos também viram um pouco da história da astronomia pelas placas do observatório.\n\n\n\nEstudantes em visitação ao Observatório a Olho Nu"
+  },
+  {
+    "objectID": "blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html#conclusão",
+    "href": "blog/posts/jornada_do_sol_09_11_23/jornada_do_sol_09_11_23.html#conclusão",
+    "title": "Escola Maria Rosa - nov/2023",
+    "section": "Conclusão",
+    "text": "Conclusão\nPode-se concluir que o evento foi bem proveitoso, pois houve participação dos alunos durante as atividades. No dia não houve inconveniências climáticas e todos os bolsistas contribuíram com as atividades.\nA realização de eventos como a Jornada do Sol são importantes para a divulgação da astronomia para a sociedade e, também, para que os estudantes conheçam e se aproximem da universidade, incentivando-os a entrarem em uma instituição de ensino superior.\nA divulgação científica é um método importante para combater as fakes news que são tão comuns e corriqueiras nos dias atuais, logo o nosso compromisso como instituição de ensino é alertar e difundir o conhecimento científico para a comunidade."
+  },
+  {
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Tem experiência em Simulação Computacional de Materiais. Atua também em Ensino de Física, no desenvolvimento de montagens, demonstrações e animações para facilitar a aprendizagem. Coordena o espaço de Ensino e Aprendizagem ExpLORa da Faculdade de Tecnologia/UNICAMP.\nFormação\nGraduado em Física pela Unicamp\nDoutor em Física pela Unicamp\nAtuação profissional\nProfessor | Unicamp | 2009 - presente"
+    "text": "Ordenar por\n       Pré-selecionado\n         \n          Data - Mais velho\n        \n         \n          Data - O mais novo\n        \n         \n          Título\n        \n         \n          Categoria\n        \n         \n          Descrição\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nSistema Solar em realidade aumentada no colégio INSA\n\n\n\n\n\n\n\n\n\n\n\n13 de mai. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\nFotos do cometa Pons-Brooks\n\n\n\n\n\n\n\n\n\n\n\n7 de mai. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\nObservação do cometa Pons-Brooks\n\n\n\n\n\n\n\n\n\n\n\n21 de abr. de 2024\n\n\n\n\n\n\n\n\n\n\n\n\nEscola Maria Rosa - nov/2023\n\n\n\n\n\n\n\n\n\n\n\n9 de nov. de 2023\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
-    "objectID": "equipe/estudantes/daiane_degan.html",
-    "href": "equipe/estudantes/daiane_degan.html",
-    "title": "Daiane Ribeiro Degan",
+    "objectID": "blog/posts/pons-brooks_07_05_24/pons-brooks_07_05_24.html",
+    "href": "blog/posts/pons-brooks_07_05_24/pons-brooks_07_05_24.html",
+    "title": "Fotos do cometa Pons-Brooks",
     "section": "",
-    "text": "Estudante de licenciatura em física, apaixonada pelos astros e pelos mistérios do universo.\nFormação\nGraduanda em Física pela UFSCar | 2019 - presente"
+    "text": "O cometa Pons-Brooks esteve no periélio (ponto de maior proximidade do Sol) ao final de abril. Mas isso não implica que deixou de ser visível com telescópios por várias semanas ou meses posteriores. Com uma pequena perda de magnitude conseguimos observar novamente o cometa e fazer algo que não foi possível no evento de 21/04/24: fotografar o danado!\nDe forma totalmente não planejada, eu (João Teles), Sílvio Dahmen, Fernando Apolinário e meu estimado egresso do curso de Física, Fernando Pedersen (que estava nos visitando nessa ocasião), nos reunimos em torno das 18h no Observatório e montamos novamente o telescópio C6-S.\nCom a câmera SV305 acoplada à saída da ocular do telescópio, fizemos as fotos abaixo.\n\n\n\nFoto do cometa Pons-Brooks em 07/05/2024 em torno das 18h30 a partir do Observatório do CCA-UFSCar. Tempo de exposição de 10 s.\n\n\n\n\n\nFoto do cometa Pons-Brooks em 07/05/2024 em torno das 18h30 a partir do Observatório do CCA-UFSCar. Tempo de exposição de 30 s. Nesta foto é possível observar três estrelas bem fracas na parte superior esquerda da imagem. A mais forte possui magnitude 10,55 e a mais fraca 13,80 (bastante aquém da sensibilidade do olho nu). São todas estrelas da constelação de Eridanus."
   },
   {
-    "objectID": "equipe/estudantes/maria_gomes.html",
-    "href": "equipe/estudantes/maria_gomes.html",
-    "title": "Maria Eduarda de Souza Gomes",
+    "objectID": "blog/posts/pons-brooks_21_04_24/pons-brooks_21_04_24.html",
+    "href": "blog/posts/pons-brooks_21_04_24/pons-brooks_21_04_24.html",
+    "title": "Observação do cometa Pons-Brooks",
     "section": "",
-    "text": "Fascinada pelas maravilhas do espaço, encontro inspiração tanto nas estrelas distantes quanto nos avanços tecnológicos que nos permitem explorá-las. Cada nova descoberta no espaço é um lembrete do poder da tecnologia e da infinita curiosidade humana.\nFormação\nGraduanda em Sistemas de Informação pela Unicamp | 2023 - presente"
+    "text": "Nos reunimos a partir das 17h45 na praça do Observatório para iniciar a nossa busca pelo fugidio Pons-Brooks. O bacana desse cometa é que ele possui um período orbital de 71 anos, que é semelhante ao do cometa Halley (76 anos). Cometas são objetos que fascinam a humanidade há milênios. Mas foi somente com Edmond Halley, usando a Física de Newton, que se compreendeu que não se tratam de fenômenos atmosféricos, mas que são corpos que executam órbitas em torno do Sol como os planetas.\nNo caso dos cometas, as órbitas são elipses bem achatadas com o Sol próximo a uma das extremidades. A maior parte do tempo eles estão longe do Sol, geladões. Mas durante alguns meses aproximam-se dele, aquecendo-se e produzindo gás e detritos em sua volta – o que vai produzir sua coma e cauda e talvez por isso tenham feito os antigos pensarem que os cometas estavam na atmosfera da Terra.\nNesta mesma data, ainda tivemos a oportunidade de apreciar o evento de conjunção entre Júpiter e Urano, que é o momento em que os dois planetas encontram-se mais próximos um do outro a partir da nossa visão da Terra. Júpiter, facilmente visível a olho nu e Urano, somente com telescópio.\nE para completar nossa seção de observação, observamos a – sempre espetacular – Lua quase cheia com nossos telescópios.\nNeste evento usamos os telescópios C6-S e NexStar-4SE.\nParticiparam das observações em torno de 20 pessoas. A Figura 1 mostra um dos momentos das pessoas interagindo e observando o céu.\n\n\n\n\n\n\nFigura 1: Pessoas no Observatório observando, com telescópios e à vista desarmada, Júpiter e suas luas, Urano, a Lua e as constelações de Órion, Cão Maior, Cruzeiro do Sul, entre outras."
   },
   {
-    "objectID": "equipe/estudantes/lucas_ribeiro.html",
-    "href": "equipe/estudantes/lucas_ribeiro.html",
-    "title": "Lucas Caprio Ribeiro",
+    "objectID": "blog/posts/pons-brooks_21_04_24/pons-brooks_21_04_24.html#descrição-do-evento",
+    "href": "blog/posts/pons-brooks_21_04_24/pons-brooks_21_04_24.html#descrição-do-evento",
+    "title": "Observação do cometa Pons-Brooks",
     "section": "",
-    "text": "Perdidamente apaixonado pelo Universo e pelas leis que o regem, porém apreensivo, com a solidão que o mesmo nos proporciona. Um estudante em busca de conhecimento verdadeiro, convicto de que “O primeiro pecado da humanidade foi a fé; a primeira virtude foi a dúvida.” (Carl Sagan)\nFormação\nGraduando em Física pela UFSCar | 2020 - presente"
+    "text": "Nos reunimos a partir das 17h45 na praça do Observatório para iniciar a nossa busca pelo fugidio Pons-Brooks. O bacana desse cometa é que ele possui um período orbital de 71 anos, que é semelhante ao do cometa Halley (76 anos). Cometas são objetos que fascinam a humanidade há milênios. Mas foi somente com Edmond Halley, usando a Física de Newton, que se compreendeu que não se tratam de fenômenos atmosféricos, mas que são corpos que executam órbitas em torno do Sol como os planetas.\nNo caso dos cometas, as órbitas são elipses bem achatadas com o Sol próximo a uma das extremidades. A maior parte do tempo eles estão longe do Sol, geladões. Mas durante alguns meses aproximam-se dele, aquecendo-se e produzindo gás e detritos em sua volta – o que vai produzir sua coma e cauda e talvez por isso tenham feito os antigos pensarem que os cometas estavam na atmosfera da Terra.\nNesta mesma data, ainda tivemos a oportunidade de apreciar o evento de conjunção entre Júpiter e Urano, que é o momento em que os dois planetas encontram-se mais próximos um do outro a partir da nossa visão da Terra. Júpiter, facilmente visível a olho nu e Urano, somente com telescópio.\nE para completar nossa seção de observação, observamos a – sempre espetacular – Lua quase cheia com nossos telescópios.\nNeste evento usamos os telescópios C6-S e NexStar-4SE.\nParticiparam das observações em torno de 20 pessoas. A Figura 1 mostra um dos momentos das pessoas interagindo e observando o céu.\n\n\n\n\n\n\nFigura 1: Pessoas no Observatório observando, com telescópios e à vista desarmada, Júpiter e suas luas, Urano, a Lua e as constelações de Órion, Cão Maior, Cruzeiro do Sul, entre outras."
   },
   {
-    "objectID": "equipe/estudantes/jhasmani_tito_cruz.html",
-    "href": "equipe/estudantes/jhasmani_tito_cruz.html",
-    "title": "Jhasmani Tito Cruz",
+    "objectID": "blog/posts/pons-brooks_21_04_24/pons-brooks_21_04_24.html#observações",
+    "href": "blog/posts/pons-brooks_21_04_24/pons-brooks_21_04_24.html#observações",
+    "title": "Observação do cometa Pons-Brooks",
+    "section": "Observações",
+    "text": "Observações\n\nLua\nComeçamos a observar a Lua, compartilhando ainda o resto do dia com o Sol. Muito bonita como sempre.\n\n\n\nCrianças fazendo suas primeiras observações.\n\n\n\n\n\nLua sendo observada no horizonte Leste\n\n\n\n\nJúpiter e Urano\nPouco tempo após o por do Sol, começamos a ver Júpiter, o gigante gasoso, com suas quatro maiores luas descobertas por Galileu Galilei e, com o avanço da noite, observamos Urano, seu avô (ao menos na mitologia grega). Infelizmente, não conseguimos tirar uma foto dessa observação e mostramos na Figura 2 uma simulação bastante próxima do que vimos no céu construída com o Stellarium\n\n\n\n\n\n\nFigura 2: Simulação, via Stellarium, da observação simultânea de seis astros do sistema solar: Júpiter, Ganimedes, Io, Europa, Calisto e Urano.\n\n\n\n\n\nCometa Pons-Brooks\nApós as excelentes observações acima, estávamos quase desistindo de tentar encontrar o cometa. Mas, usando algumas estrelas da constelação do Touro como referência, finalmente conseguimos fechar a noite com chave de ouro. A Figura 3 mostra uma simulação bastante fiel do que conseguimos observar.\n\n\n\n\n\n\nFigura 3: Simulação, via Stellarium, da nossa observação do cometa Pons-Brooks realizada às 18h40 do dia 21/04/2024."
+  },
+  {
+    "objectID": "atividades/planisferio/planisferio.html",
+    "href": "atividades/planisferio/planisferio.html",
+    "title": "Construção de Planisfério",
     "section": "",
-    "text": "Tem experiência no ensino médio nas áreas STEM (Science, Technology, Engineering, and Mathematics). Atua como pesquisador e desenvolvedor de jogos sérios utilizando Realidade Virtual e Aumentada para o ensino de STEM. CEO da Kusillo Game Studio.\nFormação\nGraduado em Engenharia Eletrônica pela UNA, Peru\nMestre em Tecnologia pela UNICAMP\nDoutorando em Tecnologia pela UNICAMP | 2023-Presente"
+    "text": "Planisférios são mapas contendo as principais estrelas e constelações. Normalmente são acondicionados dentro de uma “máscara” que serve para destacar a região do mapa visível na data e horário escolhidos para observação do céu.\nExistem muitas propostas interessantes de confecção de planisférios. Nesta oficina ensinamos a construção de um modelo adaptado por nós. Além da sua construção, ensinamos os primeiros passos na forma de uso.\n\nDuração da oficina\nA oficina completa dura em torno de 50 minutos.\n\n\nFormas de participação\nExistem duas formas de realização da oficina:\n\nIndividual ou em pequenos grupos. Poderão se inscrever em oficinas pré-agendadas no calendário de eventos.\nEscolas. Podem agendar a realização de uma oficina para grupos de até 40 pessoas pelo email observe@ufscar.br.\n\nEm ambos os casos a participação é gratuita.\n\n\nPúblico alvo\nQualquer pessoa a partir de 6 anos de idade. Crianças devem estar acompanhadas pelos pais ou responsáveis.\n\n\nLocalização\nCCA-UFSCar, campus Araras\nRodovia Anhanguera, km 174 - SP-330 - Araras-SP-BR observe@ufscar.br\nO local específico dentro do campus é informado no calendário ou por email no caso de agendamento das escolas."
   },
   {
-    "objectID": "equipe/estudantes/daniel_oliveira.html",
-    "href": "equipe/estudantes/daniel_oliveira.html",
-    "title": "Daniel Matheus de Oliveira Joaquim",
+    "objectID": "atividades/observacao_do_ceu/observacao_do_ceu.html",
+    "href": "atividades/observacao_do_ceu/observacao_do_ceu.html",
+    "title": "Observação do céu",
     "section": "",
-    "text": "Descrição do Daniel.\nFormação\nGraduando em Biotecnologia pela UFSCar | 2019 - presente"
+    "text": "Encontros de curta duração, normalmente realizados no intervalo das aulas do período noturno do CCA-UFSCar.\nPossui a finalidade de aumentar o conhecimento das pessoas sobre o céu noturno visível a olho nu, dando noções de localização no céu das principais estrelas e constelações, bem como seus movimentos e épocas do ano em que são visíveis.\nNesses encontros, nossa principal ferramenta é o planisfério. Sabemos que existem ótimos aplicativos de celular que permitem a identificação de estrelas e constelações mirando a tela do aparelho na direção a ser observada. Entretanto, eles não possibilitam o mesmo grau de engajamento e de construção mental propiciados pelo planisfério. Por esses motivos, evitamos o uso de celulares nesses encontros.\n\nDuração de cada encontro\nEntre 20 e 30 minutos.\n\n\nFormas de participação\nConsulte as datas de observação no calendário de eventos. Não é necessário agendamento prévio. Não há limitação no número de pessoas. A participação é gratuita.\n\n\nPúblico alvo\nQualquer pessoa a partir de 6 anos de idade. Crianças devem estar acompanhadas pelos pais ou responsáveis.\n\n\nLocalização\nCCA-UFSCar, campus Araras\nRodovia Anhanguera, km 174 - SP-330 - Araras-SP-BR observe@ufscar.br\nO local específico dentro do campus é informado no calendário."
   },
   {
-    "objectID": "equipe/equipe.html",
-    "href": "equipe/equipe.html",
-    "title": "Equipe",
+    "objectID": "atividades/desafios_online/desafios_online.html",
+    "href": "atividades/desafios_online/desafios_online.html",
+    "title": "Desafios online",
     "section": "",
-    "text": "Professores\n\n\n\n\n\n\nJoão Teles de Carvalho Neto\n\n\n\n\nSílvio R. Dahmen\n\n\n\n\nVitor Rafael Coluci\n\n\n\n\nAlexandre Colato\n\n\n\n\n\nNenhum item correspondente\n\n\n\n\n\n\n\nTécnicos\n\n\n\n\n\n\nFernando Rezende Apolinário\n\n\n\n\nAline de Almeida Soares\n\n\n\n\n\nNenhum item correspondente\n\n\n\n\n\n\n\nEstudantes\n\n\n\n\n\n\nDaiane Ribeiro Degan\n\n\n\n\nLaís Florencio de Oliveira\n\n\n\n\nMaria Eduarda de Souza Gomes\n\n\n\n\nGuilherme Nunes Bonaldo\n\n\n\n\nLucas Caprio Ribeiro\n\n\n\n\nAmanda Greyce de Sales\n\n\n\n\nJhasmani Tito Cruz\n\n\n\n\nMaria Eduarda Silvestrini Dantas\n\n\n\n\nDaniel Matheus de Oliveira Joaquim\n\n\n\n\nVivian Lara Silva\n\n\n\n\n\nNenhum item correspondente"
-  },
-  {
-    "objectID": "sobre/sobre.html",
-    "href": "sobre/sobre.html",
-    "title": "Sobre o obseRVe",
-    "section": "",
-    "text": "O obseRVe foi formado no ano de 2023 a partir da união de várias ações envolvendo o ensino e a divulgação de astronomia que vem ocorrendo no campus de Araras da UFSCar desde a fundação do Curso de Licenciatura em Física no ano de 2009."
-  },
-  {
-    "objectID": "sobre/sobre.html#logotipo",
-    "href": "sobre/sobre.html#logotipo",
-    "title": "Sobre o obseRVe",
-    "section": "Logotipo",
-    "text": "Logotipo\nPara a escolha do logotipo do grupo, pensamos em algo que refletisse o tipo de atividades e ferramentas que utilizamos em nossos trabalhos.\nPor um lado, tratamos dos conhecimentos básicos da Astronomia desbravados por pensadores como Galileu Galilei. Por outro, estudamos tecnologias que tornem esses conhecimentos mais sensoriais, cativantes e contemporizados.\nDaí surgiu a ideia de consultar a caligrafia original de Galileu em documentos históricos e copiar as letras apropriadas para formar a palavra obseRVe.\n\nQuanto à palavra em si, buscávamos algo simples e direto, com grafia semelhante em várias línguas ocidentais e que, obviamente, remetesse a algum aspecto fundamental da Astronomia.\nNesse sentido, a palavra obseRVe surge no imperativo como um convite ao fazer, ao experimentar e à ação, ensejando, ao mesmo tempo, a contemplação – características ancestrais desta que é uma das mais belas das ciências.\nPor fim, temos as letras maiúsculas “R” e “V” diferenciando-se das demais em alusão à sigla para “Realidade Virtual”, fazendo a ponte com as tecnologias que abrem novas perspectivas de experiências e interações muitas vezes inviáveis – financeiramente ou tecnicamente – de serem realizadas no mundo físico."
-  },
-  {
-    "objectID": "sobre/sobre.html#histórico",
-    "href": "sobre/sobre.html#histórico",
-    "title": "Sobre o obseRVe",
-    "section": "Histórico",
-    "text": "Histórico\n\n2009:\n\nInaugurado o evento Jornada das Estrelas pelo Prof. Alexandre Colato. Desde o início o astrônomo Dr. Gustavo Rojas apoia o evento com palestras, orientações e trazendo sua equipe e telescópios de São Carlos.\nRealização da II Jornada das Estrelas no 2º semestre.\n\n2010:\n\nRealização da III Jornada das Estrelas.\nProf. João Teles se une ao Prof. Alexandre a partir da IV Jornada das Estrelas.\n\n2011:\n\nSão adquiridos os dois primeiros telescópios: Maksutov Nextar 4SE e Dobsoniano com recursos do CCA/UFSCar.\nRealização da V Jornada das Estrelas.\n\n2012:\n\nÉ aprovado o projeto (edital PROEXT/MEC) “Universo em movimento – diferentes abordagens no ensino e divulgação da astronomia” em parceria com o Prof. Adilson de Oliveira.\nRealização da VI Jornada das Estrelas.\n\n2012 e 2013 – Foram realizadas diversas ações dentro do projeto “Universo em movimento”:\n\nCurso de formação inicial e formação continuada em “Astronomia voltada para a Educação Básica”.\nRealização da VIII e IX Jornada das Estrelas em 2013.\nExposições de Astronomia na Biblioteca Municipal de Araras.\nExposições de Astronomia nas Escolas de Ensino Fundamental e Médio de Araras.\nParticipações no Programa International Astronomical Search Collaboration (IASC).\nParticipação no programa Globe at Night em parceria com a Profa. Lilia C. P. Thomaz na E.M.E.F. Prof. Joel Job Fachini pelo PIBID.\n\n2014:\n\nÉ desenvolvida a atividade Medindo a distância da Terra à Lua dentro do projeto “Diversificação curricular: possibilidade de aperfeiçoamento e valorização da formação de futuros professores de física” pelo Programa Licenciaturas Internacionais coordenado pelo Prof. Paulo C. de Faria em parceria com a Universidade de Aveiro, Portugal.\nÉ aprovado o projeto PROEXT/MEC “Sementes - Integração de estratégias e metodologias voltadas à consolidação da cultura científica visando a inclusão social” novamente em parceria com o Prof. Adilson, agora como coordenador principal, e envolvendo ações e parcerias com todos os campi da UFSCar.\n\n2014 e 2015 – As ações realizadas dentro do projeto “Sementes” mais especificamente voltadas à cidade de Araras foram:\n\nParceria universidade-escola com o Prof. Alexandre Barai envolvendo “Divulgação de conhecimentos de Astronomia no contexto da Olimpíada Brasileira de Astronomia”.\nOfertas das ACIEPEs “Divulgação de conhecimento de Astronomia e Astronáutica” voltadas a professores em formação e em exercício.\nAquisição do telescópio Schmidt-Cassegrain equatorial C6S.\nRealização da X e XI Jornada das Estrelas.\n\n2015 :\n\nÉ inaugurado o Observatório a Olho Nu do CCA/UFSCar.\nSão construídos os globos celeste e terrestre de 75 cm de diâmetro.\nRealização da XII Jornada das Estrelas.\nRealização da I Jornada do Sol em pareceria com o Prof. Fabrizzio Montezzo e o Prof. Dirceu Nardone do grupo Gearc.\nParticipação no evento Escola de Astros realizado na Unesp de Rio Claro.\n\n2016:\n\nRealização da ACIEPE Ensino de astronomia através da participação no International Astronomical Search Collaboration (IASC) que teve a inscrição de 80 estudantes do Ensino Médio de Araras e outras localidades do estado de SP.\nÉ adquirida a câmera para astrofotografia ZWO ASI290MC.\nRealização da XIII Jornada das Estrelas.\n\n2017: Realização da XIV Jornada das Estrelas.\n2018: Início do desenvolvimento do Projetor Estelar.\n2019: Realização da XV Jornada das Estrelas.\n2020: Oferta do curso de extensão “Astronomia voltada para a Educação Básica” de forma remota durante a pandemia de Covid-19 que recebeu mais de 100 inscrições de várias cidades do Brasil.\n2022:\n\nConclusão do hardware e software do Projetor Estelar e finalização de pesquisa de mestrado envolvendo sua utilização no ensino de astronomia.\nRealização da XVI Jornada das Estrelas.\n\n2023:\n\nÉ iniciado o projeto CNPq “Astronomia e cultura astronômica: do céu real ao céu virtual” em parceria com o Prof. Vitor Coluci da FT-Unicamp.\nRealização da XVII Jornada das Estrelas.\nCriação do grupo obseRVe e adesão do Prof. Sílvio Dahmen ao grupo."
-  },
-  {
-    "objectID": "sobre/sobre.html#financiamento",
-    "href": "sobre/sobre.html#financiamento",
-    "title": "Sobre o obseRVe",
-    "section": "Financiamento",
-    "text": "Financiamento\nAtualmente o grupo obseRVe é financiado pelo CNPq por meio da Chamada CNPq/MCTI/FNDCT 39/2022 “Programa de Apoio a Museus e Centros de Ciência e Tecnologia e a Espaços Científico-Culturais” (processo 407086/2022-6) dentro da Linha 3: Divulgação Científica e Educação Museal."
-  },
-  {
-    "objectID": "acervo/itens/svbony305/svbony305.html",
-    "href": "acervo/itens/svbony305/svbony305.html",
-    "title": "SV305 - SVBONY",
-    "section": "",
-    "text": "DescriçãoInstruçõesEspecificações\n\n\nAs câmeras para astrofotografia ampliam a capacidade de observação do céu noturno proporcionada pelos telescópios. Pois permitem um maior ganho de luminosidade pela sensibilidade do seu sensor CMOS e pelo prolongamento do tempo de exposição da aquisição da imagem. Outra vantagem importante está na possibilidade de projeção da imagem em tempo real via tela de computador ou via projeção em telão, permitindo que várias pessoas observem simultaneamente o objeto ou fenômeno astronômico de interesse.\nA maior parte das imagens de objetos astronômicos fracos ou difusos, como nebulosas, aglomerados globulares, galáxias, entre outros, que são divulgadas com formas e cores vivas, só são possíveis via o uso das câmeras para astrofotografia.\nObjetos do sistema solar como a Lua e os planetas também se beneficiam do uso dessas câmeras ao possibilitarem a observação de alguns detalhes em suas superfícies dificilmente visíveis através da observação direta pela ocular do telescópio. Como alguns exemplos, podemos citar as divisões nos anéis de Saturno, a calota polar marciana, as faixas atmosféricas de Júpiter e o eclipse solar de suas maiores luas, os raros trânsitos de Mercúrio e Vênus pelo Sol, entre outros. Por sinal, esta câmera, modelo SV305, é mais indicada justamente para observação planetária.\n\n\n\nA instalação e uso da SV305 são bastante fáceis. Em sistemas Linux, o software AstroDMx reconhece prontamente a câmera SV305 ao plugá-la via cabo usb no computador.\nOs ajustes de ganho, tempo de exposição, zoom digital, entre outros parâmetros, são diretamente acessíveis pela interface do software. Através da janela de visualização de imagens é possível mostrar em tempo real as imagens sendo adquiridas, bem como o registro de snapshots para futuro pós-processamento.\n\n\nExtraídas do site da SVBONY Brasil\n\nModelo: SV305\nSensor: 1/2.8″ CMOS SONY IMX290\nTamanho do pixel: 2.9X2.9μm\nResolução: 2 Mega Pixels 1920X1080\nObturador: Obturador Eletrônico\nFPS máximo: 130 fps (320*240)\nFormato de codificação de vídeo: CRU\nADC: 12 bits\nSuporte ao ROI: ROI de qualquer área\nNo buffer de imagem da câmera: 128M de buffer DDR\nJanela óptica: vidro IR650\nInterface: USB 2.0\nMaterial: Liga de alumínio\nSO compatível: Windows, Linux, Raspberry Pi & Mac OS\nConsumo de energia: 200mA em 5V\nTemperatura de trabalho: -0°C~45°C\nTemperatura de armazenamento: -10°C~60°C\nUmidade Relativa de Trabalho: 20%~80%\nUmidade Relativa de Armazenamento: 20%~95%"
-  },
-  {
-    "objectID": "acervo/itens/quest2/quest2.html",
-    "href": "acervo/itens/quest2/quest2.html",
-    "title": "Quest 2 - Meta",
-    "section": "",
-    "text": "DescriçãoEspecificações\n\n\nA tecnologia dos óculos de realidade virtual evoluiu bastante nos últimos tempos. Com várias câmeras e sensores de localização/orientação cujos dados são analisados praticamente em tempo real por processadores de alto desempenho, elas permitem que imagens virtuais sejam desenhadas e atualizadas no campo de visão do usuário dando a sensação de realmente corresponderem a objetos sólidos que existem no mundo físico.\nExistem duas categorias principais de interação em realidade virtual: (i) a imersão completa em um ambiente virtual totalmente desvinculado do mundo real – a esse modo usamos o próprio termo Realidade Virtual (RV) ou VR de Virtual Reality e (ii) a imersão parcial, em que elementos virtuais são sobrepostos e dividem espaço com o mundo real – modo chamado de Realidade Aumentada (RA) ou AR de Augmented Reality. Para se referir à realidade virtual de forma genérica, de forma a incorporar os dois modos, usa-se a sigla XR.\nComo a astronomia lida com dimensões, escalas, quantidades e relações espaciais normalmente muito grandes, o ambiente virtual é uma ótima alternativa para propiciar experiências impactantes na aprendizagem de conceitos centrais dessa ciência que é tão visual por natureza. Com os óculos de realidade virtual podemos, entre outras coisas, desenvolver as seguintes atividades e ambientes:\n\nDimensões e dinâmicas do Sistema Solar em escala com interação em um ambiente não formal de aprendizagem com interações sociais potencializadas pela realidade aumentada.\nAtividades interativas de manipulação do sistema Sol-Terra-Lua de forma a explorar, utilizando metodologias ativas de ensino, conceitos básicos de astronomia envolvendo as fases da Lua, os eclipses solar e lunar e as estações do ano.\nUm planetário ou observatório astronômico virtual em que as mais variadas formas de representação dos objetos celestes podem ser exploradas em um ambiente totalmente virtual que propicie uma grande imersão na vastidão e encantamento do céu noturno.\n\nEsses são apenas alguns exemplos dentre as infinitas possibilidades ao alcance da nossa imaginação e conhecimento.\n\n\n\nDispomos de 10 unidades do modelo Meta Quest 2 cujas especificações são as seguintes:\n\nSistema operacional: Meta Horizon OS, baseado no código-fonte do Android\nProcessador: Qualcomm Snapdragon XR2\nMemória: 6 GB LPDDR4X\nArmazenamento: 128 GB\nTela: LCD RGB 1832 x 1920 por olho a 72 – 120 Hz\nGráficos: Adreno 650, até 1,32 TFLOPS\nSom: 2 alto-falantes embutidos / 2 microfones embutidos / entrada para fone de ouvido de 3,5 mm\nEntrada: Rastreamento 6DOF inside-out através de 4 câmeras integradas e 2 controladores com acelerômetros e giroscópios\nEntrada do controlador: Oculus Touch\nCâmera: 4 câmeras infravermelhas\nConectividade:\n\nUSB-C\nBluetooth 5\nWi-Fi 6\n\nMassa: 503 g"
-  },
-  {
-    "objectID": "acervo/itens/nexstar4se/nexstar4se.html",
-    "href": "acervo/itens/nexstar4se/nexstar4se.html",
-    "title": "NexStar 4SE - Celestron",
-    "section": "",
-    "text": "DescriçãoInstruçõesEspecificações\n\n\nAlguns telescópios, conhecidos como refratores, usam lentes. Outros, conhecidos como refletores, usam espelhos. O sistema óptico Maksutov-Cassegrain usa uma combinação de espelhos e lentes e é chamado de telescópio composto ou catadióptrico.\nO sistema Maksutov-Cassegrain consiste em um corretor de placas, um espelho primário esférico e um ponto de espelho secundário. Uma vez que os raios de luz entram no sistema óptico, eles percorrem o comprimento do tubo três vezes. Com isso, esse design oferece grandes comprimentos focais em tubos muito curtos, tornando-os extremamente portáteis.\nDevido à sua grande relação focal e pequena abertura é mais voltado para a observação dos planetas e da Lua.\n\n\n\n\nInstalação do telescópio\n\nComece removendo o telescópio de sua caixa de transporte e colocando a base redonda em uma mesa ou superfície plana. É melhor levar o telescópio segurando-o pela parte inferior do braço do garfo e pela parte inferior da base.\nRemova todos os acessórios de suas respectivas caixas. Lembre-se de guardar todos os recipientes para que possam ser usados para transportar o telescópio.\nO tubo do telescópio deve ser posicionado horizontalmente ao solo. Para fazer isso, gire suavemente a frente do tubo para cima até que esteja nivelado com o chão\nO NexStar pode ser alimentado por quaisquer uma dessas três opções: (i) oito pilhas AA (alcalinas ou recarregáveis de Ni-MH), (ii) fonte CA de 12 V e (iii) adaptador 12 V de bateria de carro.\n\n\n\nCalibração e uso do sistema Go-To\nTexto em construção.\n\n\n\nExtraídas do site da Celestron Brasil\n\nInformações do tubo óptico\n\nDesign Óptico: Maksutov-Cassegrain\nAbertura: 102 mm (4,02”)\nDistância focal: 1325mm (52”)\nRazão focal: f/13\nDistância focal da ocular 1: 25mm (0,98”)\nAmpliação da ocular 1: 53x\nFinderscope: localizador de ponto vermelho StarPointer™\nStar Diagonal: Retrovisor interno para ângulo de visão direto ou de 90°\nTubo Óptico: Alumínio\nMaior ampliação útil: 241x\nAmpliação útil mais baixa: 15x\nLimitando a Magnitude Estelar: 12,5\nResolução (Rayleigh): 1,37 segundos de arco\nResolução (Dawes): 1,14 segundos de arco\nPoder de coleta de luz (comparado ao olho humano): 212x\nObstrução do espelho secundário: 35mm (0,38”)\nObstrução do espelho secundário por diâmetro: 34%\nObstrução de espelho secundário por área: 12%\nRevestimentos ópticos: StarBright XLT\nComprimento do tubo óptico: 343mm (13,5”)\nDiâmetro do tubo óptico: 125 mm (4,9”)\nPeso do tubo óptico: 6 libras (2,7 kg)\nCauda de andorinha: barra de cauda de andorinha CG-5\n\n\n\nInformações da montagem\n\nTipo de montagem: Braço de garfo único computadorizado de altitude-azimute\nCapacidade de carga do instrumento: 10 lbs (4,54 kg)\nFaixa de ajuste de altura (inclui montagem e tripé): 939,8 mm - 2397 mm (37” - 55”)\nDiâmetro da perna do tripé: 38,1 mm (1,5”) Aço inoxidável\nPeso da cabeça de montagem: 7 lbs (3,2 kg)\nBandeja de acessórios: Sim\nPeso do tripé: 10 libras (4,54 kg)\nVelocidades de giro: 9 velocidades de giro - velocidade máxima 3°/segundo\nTaxas de Rastreamento: Sideral, Solar e Lunar\nModos de rastreamento: Alt-Az, EQ North e EQ South\nGPS: N/A\nCompatibilidade de cauda de andorinha: cauda de andorinha CG-5\nNúmero de portas auxiliares: 1x porta AUX\nPorta de guia automático: Não\nPorta USB: Sim, entrada de controle manual\nRequisitos de alimentação: 8 pilhas AA (não incluídas) e 12 VDC-750 mA (ponta positiva)\nAcionamento do motor: servo motores DC\nProcedimentos de alinhamento: SkyAlign, 1-Star Align, 2-Star Align, Auto 2-Star Align, Solar System Align, EQ North / EQ South Alignment (EQ align requer uma cunha equatorial)\nCorreção periódica de erros: Não\nControle manual computadorizado: Linha dupla, display de cristal líquido de 18 caracteres com 19 botões de LED retroiluminados de fibra óptica\nBanco de dados NexStar+: 38.181 objetos acessíveis. Informações aprimoradas sobre mais de 200 objetos.\nSoftware: Celestron Starry Night Special Edition Software e SkyPortal App\nPeso total do kit: 23 libras (10,4 kg)\n\n\n\nItens inclusos\n\nTubo Óptico\nMontagem de braço de garfo único e tripé\nBandeja de acessórios\nLocalizador de Ponteiro Estelar\nCunha Embutida\nControle manual NexStar+\nocular de 25 mm"
+    "text": "Ordenar por\n       Pré-selecionado\n         \n          Atividade\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nAtividade\n\n\nTipo\n\n\n\n\n\n\nInstrumentos astronômicos\n\n\nMúltipla escolha\n\n\n\n\nPlaneta Mercúrio\n\n\nPalavra cruzada\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "atividades/observatorio/observatorio.html",
@@ -455,25 +322,151 @@
     "text": "Essa é a grande festa da astronomia em nosso campus onde ao longo de três noites entre os meses de junho e setembro recebemos a visita de pessoas de todas as idades em grupos de amigos e familiares ou em excursões escolares. Em mais de uma década do evento, milhares de visitantes de Araras e região já passaram por aqui.\n\nAtividades\nNormalmente, a Jornada das Estrelas é dividia em três etapas:\n\nObservação do céu com telescópios.\nVisitação ao Observatório a Olho Nu.\nPalestras sobre temas de astronomia.\n\n\n\nDuração do evento\nO tempo de cada etapa varia entre 15 e 25 minutos, dependendo do número de pessoas e das condições de visibilidade do céu.\n\n\nFormas de participação\nExistem duas formas de participação no evento:\n\nPequenos grupos de pessoas como grupos de amigos e familiares. Nesse caso não há necessidade de agendamento prévio. Basta comparecer nos dias e horários do evento.\nEscolas. Grupos com muitas pessoas que normalmente vem para o evento em ônibus ou vans. Nesse caso é necessário fazer o agendamento prévio através de formulário específico disponível no calendário de eventos.\n\nO evento Jornada das Estrelas é gratuito.\n\n\nPúblico alvo\nTodas as pessoas de todas as idades. Crianças devem estar acompanhadas pelos pais ou responsáveis.\n\n\nLocalização\nPraça do Observatório a Olho NU, CCA-UFSCar\nRodovia Anhanguera, km 174 - SP-330 - Araras-SP-BR observe@ufscar.br"
   },
   {
-    "objectID": "atividades/pendulo_de_foucault/pendulo_de_foucault.html",
-    "href": "atividades/pendulo_de_foucault/pendulo_de_foucault.html",
-    "title": "Pêndulo de Foucault",
+    "objectID": "equipe/professores/vitor_coluci.html",
+    "href": "equipe/professores/vitor_coluci.html",
+    "title": "Vitor Rafael Coluci",
     "section": "",
-    "text": "No momento, esta atividade encontra-se em construção e assim que estiver pronta disponibilizaremos aqui os detalhes da sua localização e forma de visitação."
+    "text": "Tem experiência em Simulação Computacional de Materiais. Atua também em Ensino de Física, no desenvolvimento de montagens, demonstrações e animações para facilitar a aprendizagem. Coordena o espaço de Ensino e Aprendizagem ExpLORa da Faculdade de Tecnologia/UNICAMP.\nFormação\nGraduado em Física pela Unicamp\nDoutor em Física pela Unicamp\nAtuação profissional\nProfessor | Unicamp | 2009 - presente"
   },
   {
-    "objectID": "atividades/jornada_do_sol/jornada_do_sol.html",
-    "href": "atividades/jornada_do_sol/jornada_do_sol.html",
-    "title": "Jornada do Sol",
+    "objectID": "equipe/professores/silvio_dahmen.html",
+    "href": "equipe/professores/silvio_dahmen.html",
+    "title": "Sílvio R. Dahmen",
     "section": "",
-    "text": "Com seus quase 4 trilhões de trilhões de megawatts constantemente “fritando” Mercúrio e tornando o céu de Plutão “enluarado”, o Sol é um espetáculo à parte. Longe de ser um mar de aparente estabilidade, guarda em seu interior o movimento frenético das partículas que o compõe.\nGalileu Galilei foi o primeiro a testemunhar isso, observando o Sol com seu telescópio e relatando a existência das manchas solares. Hoje sabemos que são regiões mais frias na superfície solar devido ao confinamento do plasma em imensas linhas de campo magnético, impedindo assim a convecção que renova sua temperatura.\nAqui temos a oportunidade de observar o Sol e suas manchas em tempo real com nossos telescópios. Mesmo utilizando filtros solares adequados, evitamos observar diretamente pela ocular do telescópio. Usamos, ao invés disso, uma câmera de astrofotografia para projetar a imagem do Sol com grande ampliação e, assim, observar os detalhes das manchas solares.\n\nAtividades\nNormalmente, a Jornada do Sol é dividia em três etapas:\n\nProjeção do Sol usando telescópios.\nVisitação ao Relógio Solar e ao Passeio dos Planetas.\nPalestra sobre temas relacionados ao Sol.\n\n\n\nDuração do evento\nO tempo de cada etapa varia entre 15 e 25 minutos, dependendo do número de pessoas e das condições de nebulosidade.\n\n\nFormas de participação\nExistem duas formas de participação no evento:\n\nPequenos grupos de pessoas como grupos de amigos e familiares. Nesse caso não há necessidade de agendamento prévio. Basta comparecer nos dias e horários do evento.\nEscolas. Grupos com muitas pessoas que normalmente vem para o evento em ônibus ou vans. Nesse caso é necessário fazer o agendamento prévio através de formulário específico disponível no calendário de eventos.\n\nO evento Jornada do Sol é gratuito.\n\n\nPúblico alvo\nTodas as pessoas de todas as idades. Crianças devem estar acompanhadas pelos pais ou responsáveis.\n\n\nLocalização\nPraça do Observatório a Olho NU, CCA-UFSCar\nRodovia Anhanguera, km 174 - SP-330 - Araras-SP-BR observe@ufscar.br"
+    "text": "Tem formação em Física e trabalha na interface entre Física Matemática e Mecânica Estatística. Tem também trabalhos publicados em História da Ciência, em aplicações de Física nas Humanidades e traduções de textos clássicos da Física do alemão para o português.\nFormação\nBacharel e Mestre em Física pela UFSCar\nDoutor em Física pela Universidade de Bonn, na Alemanha\nPós-doutorado pela Yale University nos EUA\nAtuação profissional\nProfessor | UFRGS| 1999 - 2023\nProfessor | UFSCar | 2023 - presente"
   },
   {
-    "objectID": "atividades/passeio_dos_planetas/passeio_dos_planetas.html",
-    "href": "atividades/passeio_dos_planetas/passeio_dos_planetas.html",
-    "title": "Passeio dos Planetas",
+    "objectID": "equipe/estudantes/lais_oliveira.html",
+    "href": "equipe/estudantes/lais_oliveira.html",
+    "title": "Laís Florencio de Oliveira",
     "section": "",
-    "text": "No momento, esta atividade encontra-se em construção e assim que estiver pronta disponibilizaremos aqui os detalhes da sua localização e forma de visitação."
+    "text": "Estudante de Licenciatura em Física apaixonada por astronomia.\nFormação\nGraduanda em Licenciatura em Física pela UFSCar | 2022 - presente"
+  },
+  {
+    "objectID": "equipe/estudantes/jhasmani_tito_cruz.html",
+    "href": "equipe/estudantes/jhasmani_tito_cruz.html",
+    "title": "Jhasmani Tito Cruz",
+    "section": "",
+    "text": "Tem experiência no ensino médio nas áreas STEM (Science, Technology, Engineering, and Mathematics). Atua como pesquisador e desenvolvedor de jogos sérios utilizando Realidade Virtual e Aumentada para o ensino de STEM. CEO da Kusillo Game Studio.\nFormação\nGraduado em Engenharia Eletrônica pela UNA, Peru\nMestre em Tecnologia pela UNICAMP\nDoutorando em Tecnologia pela UNICAMP | 2023-Presente"
+  },
+  {
+    "objectID": "equipe/estudantes/guilherme_bonaldo.html",
+    "href": "equipe/estudantes/guilherme_bonaldo.html",
+    "title": "Guilherme Nunes Bonaldo",
+    "section": "",
+    "text": "Um graduando em física curioso por esse mundo fascinante, principalmente pelos astros.\nFormação\nGraduando em Física pela UFSCar | 2020 - presente"
+  },
+  {
+    "objectID": "equipe/estudantes/maria_gomes.html",
+    "href": "equipe/estudantes/maria_gomes.html",
+    "title": "Maria Eduarda de Souza Gomes",
+    "section": "",
+    "text": "Fascinada pelas maravilhas do espaço, encontro inspiração tanto nas estrelas distantes quanto nos avanços tecnológicos que nos permitem explorá-las. Cada nova descoberta no espaço é um lembrete do poder da tecnologia e da infinita curiosidade humana.\nFormação\nGraduanda em Sistemas de Informação pela Unicamp | 2023 - presente"
+  },
+  {
+    "objectID": "equipe/estudantes/daniel_oliveira.html",
+    "href": "equipe/estudantes/daniel_oliveira.html",
+    "title": "Daniel Matheus de Oliveira Joaquim",
+    "section": "",
+    "text": "Descrição do Daniel.\nFormação\nGraduando em Biotecnologia pela UFSCar | 2019 - presente"
+  },
+  {
+    "objectID": "equipe/tecnicos/fernando_apolinario.html",
+    "href": "equipe/tecnicos/fernando_apolinario.html",
+    "title": "Fernando Rezende Apolinário",
+    "section": "",
+    "text": "Descrição do Fernando.\nFormação\nGraduado em Física pela Unicamp.\nAtuação profissional\nTécnico de laboratório | UFSCar | 2015 - presente"
+  },
+  {
+    "objectID": "README.html",
+    "href": "README.html",
+    "title": "Código fonte do Website do grupo obseRVe",
+    "section": "",
+    "text": "Todos os itens da página inicial acessíveis na barra de navegação.\nA barra de navegação também contém ícones para o Instagram e futuramente para o Youtube.\n\n\n\n\n\nEsta página reúne todas as atividades que envolvem a participação do público interessado. Portanto, deve conter informações precisas e diretas do que se trata a atividade, de como participar, se inscrever, como chegar, etc.\nPor enquanto, publicamos as seguintes atividades:\n\nJornada das Estrelas\nJornada do Sol\nObservatório a Olho Nu\nConstrução de Planisfério\nObservação do céu\nPasseio dos Planetas\nPêndulo de Foucault\nDesafios online usando H5P\n\n\n\n\nNo momento esta página está em construção. Ela é dedicada ao compartilhamento do detalhamento dos projetos e equipamentos desenvolvidos. Cada item adicionado, pode ter diferentes níveis de detalhamento para diferentes faixas etárias e diferentes públicos.\nPor exemplo, o pêndulo de Foucault pode ser incluído como um projeto nesta página, a qual pode conter sub páginas. Em uma delas mostra-se explicações simples, simulações e filmagens, por exemplo. Em outra mostra-se dados técnicos da eletrônica, da mecânica do suporte, das medidas de precessão, etc.\n\n\n\nDivido nas abas de eventos agendados e eventos encerrados. Será na forma de um quarto.org listing, cada evento conterá a data, a forma específica de participação – quando diferente do descrito na página de Atividades, senão será dado o link para a respectiva atividade – formulário de inscrição, quando for o caso.\n\n\n\nPostagens dos eventos e visitações realizadas, com descrição da faixa etária do público e quantidade de pessoas, nome das escolas que visitaram quando for o caso, quais atividades foram realizadas no evento, etc. O texto tem que ser o mais detalhado possível.\nImportante usar um mesmo padrão. A primeira postagem inserida foi a visita da escola Maria Rosa em novembro/2023. É importante usar o mesmo padrão dessa postagem para as postagens futuras.\n\n\n\nEquipe do grupo Observe separada em professores, técnicos e estudantes.\n\n\n\nMateriais do projeto. Cada item é separado em abas contendo descrição, especificações e formas de uso.\n\n\n\nExplicação sobre o histórico das ações de astronomia que levaram a criação do obseRVe e a explicação da escolha do logotipo.\n\n\n\nExplicação de como acessar o Observatório a Olho Nu através de mapa gerado pela biblioteca em Python contendo explicações sobre as duas entradas do CCA-UFSCar.\n\n\n\nAinda não foi implementado. Mas abaixo, temos alguns exemplos.\n&gt;- [ExpLORa](https://wordpress.ft.unicamp.br/explora/)\n&gt;- [Observatório Astronômico da UFSCar](http://www.observatorio.ufscar.br/)\n&gt;- [Observatório Unesp - Bauru](https://www.fc.unesp.br/#!/observatorio)\n&gt;- [Planeta Rio](https://planeta.rio/)\n&gt;- [Observatório Astronômico da UFSC](https://observatorio.ufsc.br/)"
+  },
+  {
+    "objectID": "README.html#barra-de-navegação",
+    "href": "README.html#barra-de-navegação",
+    "title": "Código fonte do Website do grupo obseRVe",
+    "section": "",
+    "text": "Todos os itens da página inicial acessíveis na barra de navegação.\nA barra de navegação também contém ícones para o Instagram e futuramente para o Youtube."
+  },
+  {
+    "objectID": "README.html#página-principal",
+    "href": "README.html#página-principal",
+    "title": "Código fonte do Website do grupo obseRVe",
+    "section": "",
+    "text": "Esta página reúne todas as atividades que envolvem a participação do público interessado. Portanto, deve conter informações precisas e diretas do que se trata a atividade, de como participar, se inscrever, como chegar, etc.\nPor enquanto, publicamos as seguintes atividades:\n\nJornada das Estrelas\nJornada do Sol\nObservatório a Olho Nu\nConstrução de Planisfério\nObservação do céu\nPasseio dos Planetas\nPêndulo de Foucault\nDesafios online usando H5P\n\n\n\n\nNo momento esta página está em construção. Ela é dedicada ao compartilhamento do detalhamento dos projetos e equipamentos desenvolvidos. Cada item adicionado, pode ter diferentes níveis de detalhamento para diferentes faixas etárias e diferentes públicos.\nPor exemplo, o pêndulo de Foucault pode ser incluído como um projeto nesta página, a qual pode conter sub páginas. Em uma delas mostra-se explicações simples, simulações e filmagens, por exemplo. Em outra mostra-se dados técnicos da eletrônica, da mecânica do suporte, das medidas de precessão, etc.\n\n\n\nDivido nas abas de eventos agendados e eventos encerrados. Será na forma de um quarto.org listing, cada evento conterá a data, a forma específica de participação – quando diferente do descrito na página de Atividades, senão será dado o link para a respectiva atividade – formulário de inscrição, quando for o caso.\n\n\n\nPostagens dos eventos e visitações realizadas, com descrição da faixa etária do público e quantidade de pessoas, nome das escolas que visitaram quando for o caso, quais atividades foram realizadas no evento, etc. O texto tem que ser o mais detalhado possível.\nImportante usar um mesmo padrão. A primeira postagem inserida foi a visita da escola Maria Rosa em novembro/2023. É importante usar o mesmo padrão dessa postagem para as postagens futuras.\n\n\n\nEquipe do grupo Observe separada em professores, técnicos e estudantes.\n\n\n\nMateriais do projeto. Cada item é separado em abas contendo descrição, especificações e formas de uso.\n\n\n\nExplicação sobre o histórico das ações de astronomia que levaram a criação do obseRVe e a explicação da escolha do logotipo.\n\n\n\nExplicação de como acessar o Observatório a Olho Nu através de mapa gerado pela biblioteca em Python contendo explicações sobre as duas entradas do CCA-UFSCar.\n\n\n\nAinda não foi implementado. Mas abaixo, temos alguns exemplos.\n&gt;- [ExpLORa](https://wordpress.ft.unicamp.br/explora/)\n&gt;- [Observatório Astronômico da UFSCar](http://www.observatorio.ufscar.br/)\n&gt;- [Observatório Unesp - Bauru](https://www.fc.unesp.br/#!/observatorio)\n&gt;- [Planeta Rio](https://planeta.rio/)\n&gt;- [Observatório Astronômico da UFSC](https://observatorio.ufsc.br/)"
+  },
+  {
+    "objectID": "README.html#quarto",
+    "href": "README.html#quarto",
+    "title": "Código fonte do Website do grupo obseRVe",
+    "section": "1. Quarto",
+    "text": "1. Quarto\nO website do obseRVe é desenvolvido com a ferramenta Quarto. Ela possui uma documentação bastante amigável. Neste projeto, focamos mais em Website, mas outros recursos também serão utilizados, como inclusão de códigos python, por exemplo.\nA ideia do Quarto é você editar todos os arquivos direto em txt usando a IDE da sua preferência. Sugerimos o VS Code junto com a extensão do Quarto para VS Code."
+  },
+  {
+    "objectID": "README.html#github",
+    "href": "README.html#github",
+    "title": "Código fonte do Website do grupo obseRVe",
+    "section": "2. GitHub",
+    "text": "2. GitHub\nSe você não conhece o sistema de controle de versão Git ou o repositório GitHub e sua forma de uso, é recomendável o seu estudo na página:\nSobre o GitHub e o Git.\nA qual é subdividida em:\n\nCriar uma conta\nOlá, Mundo\nConfigure o seu perfil\nEncontre inspiração\nBaixar arquivos\nCarregar um projeto\nRecursos de aprendizagem\n\nPara uma documentação específica do Git, incluindo vídeos tutoriais, acesse Git documentation.\nSe você for usar o VS Code para editar o website, também é recomendável o estudo do material abaixo para ter uma boa integração do VS Code com o Git e o GitHub:\n\nIntroduction to Git in VS Code\nWorking with GitHub in VS Code\n\n\nGuia direto para a linha de comando\nEste é um guia direto usando a linha de comando do seu sistema operacional e, por isso, é independente do editor de texto ou da IDE usada para editar o website.\n\nPrimeira vez no Git\nInstale o Git no seu computador.\n\n\nPrimeira vez no GitHub\nCrie uma conta no GitHub\n\n\nPrimeira vez no repositório do obseRVe\nFaça o clone do repositório."
+  },
+  {
+    "objectID": "acervo/itens/c6-s/c6s.html",
+    "href": "acervo/itens/c6-s/c6s.html",
+    "title": "C6-S - Celestron",
+    "section": "",
+    "text": "DescriçãoInstruçõesEspecificações\n\n\nEste telescópio usa uma combinação de lente e espelhos, sendo assim chamado de telescópio catadióptrico. Mais especificamente, é um sistema Schmidt-Cassegrain que consiste em uma lente corretiva, um espelho primário esférico e um espelho secundário. Uma vez que os raios de luz entram no sistema óptico, eles percorrem o comprimento do tubo óptico três vezes: o raio de luz atravessa a lente corretiva, reflete no espelho primário, reflete no secundário e é direcionado para a as lentes oculares.\nSua montagem é do tipo equatorial, a qual permite rotacionar o telescópio em torno do eixo de rotação terrestre. Para equilibrar bem o telescópio existe um contrapeso. Essa característica é especialmente útil para astrofotografia que necessita de prolongados tempos de aquisição das imagens.\nDevido à sua relação focal e abertura mediana é voltado para a observação dos planetas e da Lua e objetos medianamente difusos, como aglomerados abertos e globulares e nebulosas de maior magnitude.\n\n\n\n\nInstalação do telescópio\nTexto em construção.\n\n\nCalibração e uso do sistema Go-To\nTexto em construção.\n\n\n\nExtraídas do site da Celestron\n\nInformações do tubo óptico\n\nDesign Óptico: Schmidt-Cassegrain\nAbertura: 150 mm (6”)\nComprimento Focal: 1500 mm (59”)\nRazão Focal: f/10\nBuscadora: 6x30\nTubo Óptico: Alumínio\nMaior Aumento Útil: 354x\nMenor Aumento Útil: 21x\nMagnitude Estelar Limite: 13,4\nResolução (Rayleigh): 0,93 segundos de arco\nResolução (Dawes): 0,77 segundos de arco\nGanho de luminosidade (comparado ao olho humano): 459x\nObstrução do Espelho Secundário por Área: 14%\nComprimento do Tubo Óptico: 406 mm (16”)\nPeso do Tubo Óptico: 4,54 kg\n\n\n\nInformações da montagem\n\nTipo de Montagem: Equatorial Computadorizada\nCapacidade de Carga do Instrumento: 13,6 kg\nFaixa de Ajuste de Altura (inclui montagem e tripé): 1118 mm - 1626 mm\nDiâmetro da Perna do Tripé: 50,8 mm (2”) Aço Inoxidável\nFaixa de Ajuste de Latitude: 7° - 77°\nPeso da Cabeça da Montagem: 7,71 kg\nBandeja de Acessórios: Sim\nPeso do Tripé: 8,16 kg\nPeso dos Contrapesos: 1 x 5,44 kg\nVelocidades de Movimentação: 9 velocidades de movimentação - velocidade máxima 4° por segundo\nTaxas de Rastreamento: Sideral, Solar e Lunar\nModos de Rastreamento: EQ Norte e EQ Sul\nGPS: N/A\nRequisitos de Energia: 12V DC 3.5A (ponta positiva)\nMotor de Acionamento: Motores servo DC\nProcedimentos de Alinhamento: 2-Star Align, 1-Star Align, Solar System Align, Last Alignment, Quick Align\nControle Manual Computadorizado: Display de Cristal Líquido retroiluminado de 2 linhas x 18 caracteres, 19 botões retroiluminados por LED\nBase de Dados NexStar+: Mais de 40.000 objetos"
+  },
+  {
+    "objectID": "acervo/itens/svbony305/svbony305.html",
+    "href": "acervo/itens/svbony305/svbony305.html",
+    "title": "SV305 - SVBONY",
+    "section": "",
+    "text": "DescriçãoInstruçõesEspecificações\n\n\nAs câmeras para astrofotografia ampliam a capacidade de observação do céu noturno proporcionada pelos telescópios. Pois permitem um maior ganho de luminosidade pela sensibilidade do seu sensor CMOS e pelo prolongamento do tempo de exposição da aquisição da imagem. Outra vantagem importante está na possibilidade de projeção da imagem em tempo real via tela de computador ou via projeção em telão, permitindo que várias pessoas observem simultaneamente o objeto ou fenômeno astronômico de interesse.\nA maior parte das imagens de objetos astronômicos fracos ou difusos, como nebulosas, aglomerados globulares, galáxias, entre outros, que são divulgadas com formas e cores vivas, só são possíveis via o uso das câmeras para astrofotografia.\nObjetos do sistema solar como a Lua e os planetas também se beneficiam do uso dessas câmeras ao possibilitarem a observação de alguns detalhes em suas superfícies dificilmente visíveis através da observação direta pela ocular do telescópio. Como alguns exemplos, podemos citar as divisões nos anéis de Saturno, a calota polar marciana, as faixas atmosféricas de Júpiter e o eclipse solar de suas maiores luas, os raros trânsitos de Mercúrio e Vênus pelo Sol, entre outros. Por sinal, esta câmera, modelo SV305, é mais indicada justamente para observação planetária.\n\n\n\nA instalação e uso da SV305 são bastante fáceis. Em sistemas Linux, o software AstroDMx reconhece prontamente a câmera SV305 ao plugá-la via cabo usb no computador.\nOs ajustes de ganho, tempo de exposição, zoom digital, entre outros parâmetros, são diretamente acessíveis pela interface do software. Através da janela de visualização de imagens é possível mostrar em tempo real as imagens sendo adquiridas, bem como o registro de snapshots para futuro pós-processamento.\n\n\nExtraídas do site da SVBONY Brasil\n\nModelo: SV305\nSensor: 1/2.8″ CMOS SONY IMX290\nTamanho do pixel: 2.9X2.9μm\nResolução: 2 Mega Pixels 1920X1080\nObturador: Obturador Eletrônico\nFPS máximo: 130 fps (320*240)\nFormato de codificação de vídeo: CRU\nADC: 12 bits\nSuporte ao ROI: ROI de qualquer área\nNo buffer de imagem da câmera: 128M de buffer DDR\nJanela óptica: vidro IR650\nInterface: USB 2.0\nMaterial: Liga de alumínio\nSO compatível: Windows, Linux, Raspberry Pi & Mac OS\nConsumo de energia: 200mA em 5V\nTemperatura de trabalho: -0°C~45°C\nTemperatura de armazenamento: -10°C~60°C\nUmidade Relativa de Trabalho: 20%~80%\nUmidade Relativa de Armazenamento: 20%~95%"
+  },
+  {
+    "objectID": "acervo/itens/quest2/quest2.html",
+    "href": "acervo/itens/quest2/quest2.html",
+    "title": "Quest 2 - Meta",
+    "section": "",
+    "text": "DescriçãoEspecificações\n\n\nA tecnologia dos óculos de realidade virtual evoluiu bastante nos últimos tempos. Com várias câmeras e sensores de localização/orientação cujos dados são analisados praticamente em tempo real por processadores de alto desempenho, elas permitem que imagens virtuais sejam desenhadas e atualizadas no campo de visão do usuário dando a sensação de realmente corresponderem a objetos sólidos que existem no mundo físico.\nExistem duas categorias principais de interação em realidade virtual: (i) a imersão completa em um ambiente virtual totalmente desvinculado do mundo real – a esse modo usamos o próprio termo Realidade Virtual (RV) ou VR de Virtual Reality e (ii) a imersão parcial, em que elementos virtuais são sobrepostos e dividem espaço com o mundo real – modo chamado de Realidade Aumentada (RA) ou AR de Augmented Reality. Para se referir à realidade virtual de forma genérica, de forma a incorporar os dois modos, usa-se a sigla XR.\nComo a astronomia lida com dimensões, escalas, quantidades e relações espaciais normalmente muito grandes, o ambiente virtual é uma ótima alternativa para propiciar experiências impactantes na aprendizagem de conceitos centrais dessa ciência que é tão visual por natureza. Com os óculos de realidade virtual podemos, entre outras coisas, desenvolver as seguintes atividades e ambientes:\n\nDimensões e dinâmicas do Sistema Solar em escala com interação em um ambiente não formal de aprendizagem com interações sociais potencializadas pela realidade aumentada.\nAtividades interativas de manipulação do sistema Sol-Terra-Lua de forma a explorar, utilizando metodologias ativas de ensino, conceitos básicos de astronomia envolvendo as fases da Lua, os eclipses solar e lunar e as estações do ano.\nUm planetário ou observatório astronômico virtual em que as mais variadas formas de representação dos objetos celestes podem ser exploradas em um ambiente totalmente virtual que propicie uma grande imersão na vastidão e encantamento do céu noturno.\n\nEsses são apenas alguns exemplos dentre as infinitas possibilidades ao alcance da nossa imaginação e conhecimento.\n\n\n\nDispomos de 10 unidades do modelo Meta Quest 2 cujas especificações são as seguintes:\n\nSistema operacional: Meta Horizon OS, baseado no código-fonte do Android\nProcessador: Qualcomm Snapdragon XR2\nMemória: 6 GB LPDDR4X\nArmazenamento: 128 GB\nTela: LCD RGB 1832 x 1920 por olho a 72 – 120 Hz\nGráficos: Adreno 650, até 1,32 TFLOPS\nSom: 2 alto-falantes embutidos / 2 microfones embutidos / entrada para fone de ouvido de 3,5 mm\nEntrada: Rastreamento 6DOF inside-out através de 4 câmeras integradas e 2 controladores com acelerômetros e giroscópios\nEntrada do controlador: Oculus Touch\nCâmera: 4 câmeras infravermelhas\nConectividade:\n\nUSB-C\nBluetooth 5\nWi-Fi 6\n\nMassa: 503 g"
+  },
+  {
+    "objectID": "calendario/eventos/xvii_jornada_das_estrelas.html",
+    "href": "calendario/eventos/xvii_jornada_das_estrelas.html",
+    "title": "XVII Jornada das Estrelas",
+    "section": "",
+    "text": "Entre os dias 18/06/24 e 20/06/24 ocorrerá a XVII edição do evento Jornada das Estrelas.\nNesta edição teremos:\nCada uma das três atividades terá duração entre 20 e 25 minutos, fazendo com que o circuito completo seja realizado em até 1 hora e 10 minutos.\nO evento é gratuito e o público geral pode comparecer sem agendamento. Entretanto, as escolas precisam fazer a solicitação de agendamento conforme instruções abaixo."
+  },
+  {
+    "objectID": "calendario/eventos/xvii_jornada_das_estrelas.html#instruções-para-as-escolas",
+    "href": "calendario/eventos/xvii_jornada_das_estrelas.html#instruções-para-as-escolas",
+    "title": "XVII Jornada das Estrelas",
+    "section": "Instruções para as escolas",
+    "text": "Instruções para as escolas\n\nEscolas que queiram trazer seus alunos deverão, obrigatoriamente, fazer o agendamento do dia e horário de visitação preenchendo o formulário abaixo e enviando a solicitação gerada para o email observe@ufscar.br.\nO agendamento poderá ser feito até o dia 14 de junho. As escolas que não puderem vir deverão cancelar o agendamento com antecedência para liberar horário para outras escolas.\nSerão aceitos no máximo 4 grupos de 50 alunos por horário. Para cada grupo, deverá haver, obrigatoriamente, pelo menos um professor responsável. Uma mesma escola poderá vir com mais de um grupo desde que haja pelo menos um professor diferente para cada grupo em um mesmo horário.\nAs escolas que vierem com grupos que não tiverem sido agendados e confirmados não poderão participar do evento. Todas as escolas serão contatadas por e-mail ou telefone para confirmação do agendamento. Ou seja, não basta fazer o agendamento, é necessário que a escola receba a confirmação por email para poder participar.\nEscolas que chegarem atrasadas em relação ao horário agendado poderão perder alguma das atividades acima, sendo direcionadas para a atividade seguinte desde que dentro do período agendado.\n\nPara a UFSCar é uma grande satisfação receber as escolas no evento, trazendo uma grande motivação para que ele ocorra anualmente. Entretanto, as escolas que descumprirem com as informações aqui descritas não poderão participar do evento. Isso é necessário para que as atividades ocorram de forma proveitosa para todos."
+  },
+  {
+    "objectID": "calendario/eventos/xvii_jornada_das_estrelas.html#form_escolas",
+    "href": "calendario/eventos/xvii_jornada_das_estrelas.html#form_escolas",
+    "title": "XVII Jornada das Estrelas",
+    "section": "Formulário para as escolas",
+    "text": "Formulário para as escolas\n\n   \n        Escola\n        \n     \n   \n        Município\n        \n     \n    \n   Gerar solicitação\n   Solicitação\n        \n    \n\n\n\n\n\n\n\n\n\nAtenção\n\n\n\nA solicitação não é enviada automaticamente. É necessário que você envie manualmente o texto de solicitação de agendamento para o email observe@ufscar.br"
+  },
+  {
+    "objectID": "calendario/eventos/xvii_jornada_das_estrelas.html#agendamentos-confirmados",
+    "href": "calendario/eventos/xvii_jornada_das_estrelas.html#agendamentos-confirmados",
+    "title": "XVII Jornada das Estrelas",
+    "section": "Agendamentos confirmados",
+    "text": "Agendamentos confirmados"
+  },
+  {
+    "objectID": "calendario/calendario.html",
+    "href": "calendario/calendario.html",
+    "title": "Calendário de eventos",
+    "section": "",
+    "text": "Próximos eventos\n\n\n\n\n\n\nXVII Jornada das Estrelas\n\n\n\n\n\nNenhum item correspondente\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Pré-selecionado\n         \n          Data - Mais velho\n        \n         \n          Data - O mais novo\n        \n         \n          Encerrados\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nEncerrados\n\n\nData\n\n\n\n\n\n\nObservação do cometa Pons-Brook\n\n\n21 de abr. de 2024\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "projetos/foucault_proj/foucault_proj.html",
@@ -495,5 +488,12 @@
     "title": "Captura e streaming do movimento do Pêndulo de Foucault",
     "section": "Transmissão do movimento do pêndulo",
     "text": "Transmissão do movimento do pêndulo\nEste projeto visa implementar um sistema para capturar o movimento do pêndulo e transmiti-lo em tempo real na internet (streaming).\nPretende-se também mostrar a evolução das coordenadas \\(x\\) e \\(y\\) do pêndulo para se determinar a velocidade angular do plano de oscilação.\nO sistema será uma adaptação do sistema desenvolvido por Francesco Scandiffio e Claudia Raffaelli (Università degli Studi di Firenze) disponível aqui. Usaremos uma Pi camera (Modulo Câmera Raspberry Pi Rev 1.3 5mp P5v04a) acoplada a um Raspiberry Pi 3 e a linguagem Python para coletar e processar os dados do movimento do pêndulo."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "*obseRVe*",
+    "section": "",
+    "text": "Do céu real ao céu virtual - ensino e divulgação de astronomia\n\n\nO obseRVe é um grupo de estudos voltado à divulgação e ensino de astronomia, desenvolvendo e utilizando recursos didáticos para a apreciação e compreensão dos fenômenos celestes.\n\n\n\n\n\n\n\n\n\n\n\nAtividades\n\n\n\n\n\n\n\nProjetos\n\n\n\n\n\n\n\nCalendário de eventos\n\n\n\n\n\n\n\nBlog\n\n\n\n\n\n\n\n\nUm dos nossos enfoques tem sido no estudo e desenvolvimento de instrumentação física e digital que proporcionem experiências ricas e diversificadas para as pessoas interessadas no universo da astronomia.\n\n\n\n\n\n\n\n\n\nEquipe\n\n\n\n\n\n\n\nAcervo\n\n\n\n\n\n\n\nSobre o Observe\n\n\n\n\n\n\n\nComo chegar"
   }
 ]
