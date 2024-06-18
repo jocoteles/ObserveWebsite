@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt" xml:lang="pt"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.4.553">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -195,8 +195,9 @@ ul.task-list li input[type="checkbox"] {
 <li>Visitação ao Observatório a Olho Nu.</li>
 <li>Passeio pelos planetas do Sistema Solar em escala de tamanhos e distâncias.</li>
 </ul>
-<p>Cada uma das três atividades terá duração entre 20 e 25 minutos, fazendo com que o circuito completo seja realizado em até 1 hora e 10 minutos.</p>
+<p>Cada uma das três atividades terá duração entre 20 e 25 minutos, fazendo com que o circuito completo seja realizado em até 1 hora e 10 minutos. Como as atividades são realizadas à noite e a céu aberto, recomendamos que os visitantes venham agasalhados.</p>
 <p>O evento é gratuito e o público geral pode comparecer sem agendamento. Entretanto, as <strong>escolas precisam fazer a solicitação de agendamento</strong> conforme instruções abaixo.</p>
+<p>Recebemos a informação do TCA que, nos dias do evento, a linha de ônibus <a href="https://www.smtca.sp.gov.br/wp-content/uploads/2023/01/LINHAS-E-HORARIOS-DE-ONIBUS-SITE-2023-01-30.pdf">Linha 0403 - Parque das Arvores / Jardim Alvorada - Carro 820</a> estará operando.</p>
 <section id="instruções-para-as-escolas" class="level2">
 <h2 class="anchored" data-anchor-id="instruções-para-as-escolas">Instruções para as escolas</h2>
 <ul>
@@ -656,6 +657,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/observe\.ufscar\.br");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -690,7 +709,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');

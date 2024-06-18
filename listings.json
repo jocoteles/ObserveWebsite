@@ -6,35 +6,10 @@
     ]
   },
   {
-    "listing": "/acervo/acervo.html",
+    "listing": "/atividades/desafios_online/desafios_online.html",
     "items": [
-      "/acervo/itens/c6-s/c6s.html",
-      "/acervo/itens/nexstar4se/nexstar4se.html",
-      "/acervo/itens/quest2/quest2.html",
-      "/acervo/itens/relogio_estelar/relogio_estelar.html",
-      "/acervo/itens/svbony305/svbony305.html",
-      "/acervo/itens/swdob300c/swdob300c.html"
-    ]
-  },
-  {
-    "listing": "/equipe/equipe.html",
-    "items": [
-      "/equipe/professores/joao_teles.html",
-      "/equipe/professores/vitor_coluci.html",
-      "/equipe/professores/alexandre_colato.html",
-      "/equipe/professores/silvio_dahmen.html",
-      "/equipe/tecnicos/fernando_apolinario.html",
-      "/equipe/tecnicos/aline_soares.html",
-      "/equipe/estudantes/amanda_greyce.html",
-      "/equipe/estudantes/lais_oliveira.html",
-      "/equipe/estudantes/lucas_ribeiro.html",
-      "/equipe/estudantes/jhasmani_tito_cruz.html",
-      "/equipe/estudantes/vivian_silva.html",
-      "/equipe/estudantes/guilherme_bonaldo.html",
-      "/equipe/estudantes/daiane_degan.html",
-      "/equipe/estudantes/maria_gomes.html",
-      "/equipe/estudantes/maria_dantas.html",
-      "/equipe/estudantes/daniel_oliveira.html"
+      "/atividades/desafios_online/h5p-atividades/h5p-instrumentos.html",
+      "/atividades/desafios_online/h5p-atividades/h5p-planeta-mercurio.html"
     ]
   },
   {
@@ -51,6 +26,17 @@
     ]
   },
   {
+    "listing": "/acervo/acervo.html",
+    "items": [
+      "/acervo/itens/c6-s/c6s.html",
+      "/acervo/itens/nexstar4se/nexstar4se.html",
+      "/acervo/itens/quest2/quest2.html",
+      "/acervo/itens/relogio_estelar/relogio_estelar.html",
+      "/acervo/itens/svbony305/svbony305.html",
+      "/acervo/itens/swdob300c/swdob300c.html"
+    ]
+  },
+  {
     "listing": "/blog/blog.html",
     "items": [
       "/blog/posts/sistema_solar_vr_13_05_24/sistema_solar_vr_13_05_24.html",
@@ -60,17 +46,31 @@
     ]
   },
   {
-    "listing": "/atividades/desafios_online/desafios_online.html",
-    "items": [
-      "/atividades/desafios_online/h5p-atividades/h5p-instrumentos.html",
-      "/atividades/desafios_online/h5p-atividades/h5p-planeta-mercurio.html"
-    ]
-  },
-  {
     "listing": "/calendario/calendario.html",
     "items": [
       "/calendario/eventos/xvii_jornada_das_estrelas.html",
       "/calendario/eventos/pons_brooks.html"
+    ]
+  },
+  {
+    "listing": "/equipe/equipe.html",
+    "items": [
+      "/equipe/professores/joao_teles.html",
+      "/equipe/professores/silvio_dahmen.html",
+      "/equipe/professores/vitor_coluci.html",
+      "/equipe/professores/alexandre_colato.html",
+      "/equipe/tecnicos/fernando_apolinario.html",
+      "/equipe/tecnicos/aline_soares.html",
+      "/equipe/estudantes/daiane_degan.html",
+      "/equipe/estudantes/lais_oliveira.html",
+      "/equipe/estudantes/maria_gomes.html",
+      "/equipe/estudantes/guilherme_bonaldo.html",
+      "/equipe/estudantes/lucas_ribeiro.html",
+      "/equipe/estudantes/amanda_greyce.html",
+      "/equipe/estudantes/jhasmani_tito_cruz.html",
+      "/equipe/estudantes/maria_dantas.html",
+      "/equipe/estudantes/daniel_oliveira.html",
+      "/equipe/estudantes/vivian_silva.html"
     ]
   }
 ]
