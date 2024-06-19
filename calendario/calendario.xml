@@ -101,7 +101,7 @@
         {escola:'UFSCar', professor:'Samantha', dia:'19/06', horario:'20h às 21h', escolaridade:'Misto', alunos: 'menos que 15'},
         {escola:'Maria Rosa', professor:'Edenilze', dia:'20/06', horario:'19h às 20h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
         {escola:'Maria Rosa', professor:'Guilherme', dia:'20/06', horario:'19h às 20h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
-        {escola:'Maria Rosa', professor:'Valdezir', dia:'20/06', horario:'19h às 20h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
+        {escola:'Maria Rosa', professor:'Valdezir', dia:'20/06', horario:'20h às 21h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
         {escola:'Maria Rosa', professor:'Daniele', dia:'20/06', horario:'20h às 21h', escolaridade:'Ensino Médio', alunos: 'entre 30 e 50'},
         {escola:'C.E. Sagrada Família', professor:'Jonathan', dia:'20/06', horario:'20h às 21h', escolaridade:'Ensino Médio', alunos: 'menos que 15'},
         {escola:'NFP/UFSCar', professor:'Victor', dia:'20/06', horario:'20h às 21h', escolaridade:'Superior', alunos: 'menos que 15'},
